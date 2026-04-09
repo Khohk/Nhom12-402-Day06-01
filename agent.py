@@ -5,7 +5,12 @@ from langgraph.graph.message import add_messages
 from langgraph.prebuilt import ToolNode, tools_condition
 from langchain_openai import ChatOpenAI
 from langchain_core.messages import SystemMessage
+from pathlib import Path
 from dotenv import load_dotenv
+
+# --- Load Environment Variables from current directory ---
+env_path = Path(__file__).parent / ".env"
+load_dotenv(dotenv_path=env_path, override=True)
 
 from tools import (
     check_red_flag,
@@ -15,11 +20,8 @@ from tools import (
     get_slots,
     book_appointment,
 )
-from pathlib import Path
 
 SYSTEM_PROMPT = (Path(__file__).parent / "system_prompt.txt").read_text(encoding="utf-8")
-
-load_dotenv()
 
 # --- State ---
 class AgentState(TypedDict):
