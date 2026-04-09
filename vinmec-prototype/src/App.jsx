@@ -32,18 +32,19 @@ const App = () => {
       const isWarning = result.reply.includes('🚨') || result.reply.includes('⚠️');
       const isSuccess = result.reply.includes('✅') || result.reply.includes('thành công');
       
-      // Tự động phân tách các lựa chọn nếu có danh sách đánh số (ví dụ: 1. **Vinmec**)
+      // Tự động phân tách các lựa chọn nếu có danh sách đánh số hoặc danh sách giờ khám
       const options = [];
-      const optionMatches = result.reply.matchAll(/\d+\.\s+\*\*([^*]+)\*\*/g);
+      
+      // 1. Tìm các mục đánh số: 1. **Tên** hoặc 1. Tên (có thể có khoảng trắng ở đầu)
+      const optionMatches = result.reply.matchAll(/^\s*\d+\.\s+(?:\*\*)?([^*:\n]+)(?:\*\*)?/gm);
       for (const match of optionMatches) {
         options.push(match[1].trim());
       }
-      // Nếu không có markdown đậm, thử tìm list thường
-      if (options.length === 0) {
-        const plainMatches = result.reply.matchAll(/\d+\.\s+([^\n:]+)/g);
-        for (const match of plainMatches) {
-            options.push(match[1].trim());
-        }
+      
+      // 2. Tìm các khung giờ khám: - 08:00 (Còn 1 chỗ) hoặc – 08:00 (có thể có khoảng trắng ở đầu)
+      const slotMatches = result.reply.matchAll(/^\s*[-–—]\s*((\d{1,2}:\d{2})(?:\s*\(.*?\))?)/gm);
+      for (const match of slotMatches) {
+        options.push(match[1].trim());
       }
 
       const botMessage = { 
@@ -69,13 +70,20 @@ const App = () => {
     const filteredText = [];
     
     lines.forEach(line => {
-      // Nếu dòng KHÔNG phải là danh sách đánh số thì mới cho vào text chính
-      if (!line.match(/^\d+\.\s+/)) {
+      // Nếu dòng KHÔNG phải là danh sách đánh số hoặc giờ khám thì mới cho vào text chính
+      if (!line.match(/^\s*\d+\.\s+/) && !line.match(/^\s*[-–—]\s*\d{1,2}:\d{2}/)) {
         filteredText.push(line);
       }
     });
 
-    const displayContent = filteredText.join('\n').replace(/\n/g, '<br/>');
+    const formatMarkdown = (text) => {
+      return text
+        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+        .replace(/^\s*[-–—]\s*(.*)$/gm, '• $1')
+        .replace(/\n/g, '<br/>');
+    };
+
+    const displayContent = formatMarkdown(filteredText.join('\n'));
 
     return (
       <div className={`message ${msg.role} ${msg.type || ''}`}>
@@ -167,10 +175,7 @@ const App = () => {
   const initialSuggestions = [
     "Tôi bị đau bụng 3 ngày, nên khám khoa nào?",
     "Đặt lịch khám tim mạch tuần sau giúp tôi",
-    "Chuẩn bị gì khi đi nội soi dạ dày?",
-    "Chi phí khám tổng quát bao nhiêu?",
-    "Vinmec có chấp nhận BHYT không?",
-    "Tìm chi nhánh Vinmec gần Times City"
+    "Tôi bị đột ngột không nói được,tê yếu nửa người nên khám khoa nào"
   ];
 
   return (
