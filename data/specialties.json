@@ -19,14 +19,23 @@
     "id": "ngoai-chan-thuong-chinh-hinh",
     "name": "Chấn thương chỉnh hình - Y học thể thao",
     "keywords": [
+      "ngã xe",
+      "tai nạn",
       "gãy xương",
       "bong gân",
       "trật khớp",
-      "chấn thương thể thao",
+      "chấn thương",
+      "va đập",
       "đau khớp gối",
       "đau vai",
       "đau cổ tay",
-      "phẫu thuật xương khớp"
+      "bầm tím",
+      "sưng khớp",
+      "đau xương",
+      "phẫu thuật xương",
+      "thể thao bị thương",
+      "cọ xát",
+      "trầy xước kèm đau xương"
     ],
     "is_common": true
   },
@@ -43,7 +52,9 @@
       "đau vai gáy",
       "thoát vị đĩa đệm",
       "đau xương",
-      "loãng xương"
+      "loãng xương",
+      "cứng khớp buổi sáng",
+      "khớp kêu"
     ],
     "is_common": true
   },
@@ -78,7 +89,11 @@
       "hen phế quản",
       "viêm phế quản",
       "đờm",
-      "tức ngực"
+      "tức ngực",
+      "ho có đờm",
+      "ho khan",
+      "thở ngắn",
+      "hụt hơi"
     ],
     "is_common": true
   },
@@ -195,7 +210,10 @@
       "tai biến",
       "động kinh",
       "co giật",
-      "tê bì"
+      "tê bì",
+      "đau đầu kéo dài",
+      "đau đầu buổi sáng",
+      "hoa mắt"
     ],
     "is_common": true
   },
@@ -233,7 +251,11 @@
       "vàng da",
       "đau hạ sườn phải",
       "gan",
-      "mật"
+      "mật",
+      "đau thượng vị",
+      "khó tiêu",
+      "ăn không tiêu",
+      "đi ngoài nhiều lần"
     ],
     "is_common": true
   },

@@ -12,13 +12,16 @@ def get_doctors(clinic_id: str, speciality_id: str) -> list[dict]:
     Lấy danh sách bác sĩ tại một cơ sở theo chuyên khoa.
 
     Args:
-        clinic_id: ID cơ sở (từ find_clinics)
-        speciality_id: ID chuyên khoa
+        clinic_id: ID cơ sở (từ find_clinics, VD: "times-city")
+        speciality_id: ID chuyên khoa (VD: "noi-tieu-hoa")
 
     Returns:
-        List bác sĩ: [{"id", "numeric_id", "name", "title"}]
-        numeric_id dùng để tra lịch trống trong get_slots.
+        List bác sĩ với numeric_id để dùng trong get_slots:
+        [{"id", "numeric_id", "name", "title"}]
         Tối đa 5 bác sĩ. Nếu không có → list rỗng.
+
+    LƯU Ý: Khi gọi get_slots, dùng trường "numeric_id" từ kết quả này.
+    Không dùng số thứ tự 1,2,3 — phải dùng đúng giá trị numeric_id.
     """
     result = [
         {

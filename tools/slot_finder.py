@@ -16,8 +16,8 @@ def get_slots(doctor_numeric_id: int) -> list[dict]:
 
     Returns:
         List slot còn chỗ: [{"date", "time", "remaining"}]
-        Chỉ trả về slot có remaining > 0, sắp xếp theo date + time.
-        Tối đa 10 slot gần nhất. Nếu không có → list rỗng.
+        Chỉ trả về slot có remaining > 0, sắp xếp theo time.
+        Tối đa 10 slot. Nếu không có → list rỗng.
     """
     available = [
         {"date": s["date"], "time": s["time"], "remaining": s["remaining"]}
@@ -25,7 +25,7 @@ def get_slots(doctor_numeric_id: int) -> list[dict]:
         if s["doctor_id"] == doctor_numeric_id and s["remaining"] > 0
     ]
 
-    # Sắp xếp theo ngày rồi giờ
-    available.sort(key=lambda x: (x["date"], x["time"]))
+    # Sắp xếp theo giờ trong ngày (bỏ qua filter ngày — đây là demo data)
+    available.sort(key=lambda x: x["time"])
 
     return available[:10]
