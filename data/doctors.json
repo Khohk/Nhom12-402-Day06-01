@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "bs-trinh-ngoc-phat",
+    "name": "Bác sĩ Trịnh Ngọc Phát",
+    "title": "Bác sĩ da liễu, phụ trách chuyên môn Da liễu, Bệnh viện Đa khoa Quốc tế Vinmec Times City\nTrưởng Block da liễu, Viện Khoa học Sức khỏe, Đại học VinUni",
+    "clinic_id": "times-city",
+    "speciality_id": "da-lieu",
+    "numeric_id": 16534
+  },
+  {
+    "id": "bs-tran-thi-minh-thuy",
+    "name": "Bác sĩ Trần Thị Minh Thùy",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "times-city",
+    "speciality_id": "da-lieu",
+    "numeric_id": 18897
+  },
+  {
+    "id": "bs-nguyen-van-inh",
+    "name": "Bác sĩ Nguyễn Văn Đĩnh",
+    "title": "Trưởng Chuyên khoa Miễn dịch Dị Ứng kiêm Viện trưởng Viện nghiên cứu miễn dịch",
+    "clinic_id": "times-city",
+    "speciality_id": "hen-di-ung-mien-dich",
+    "numeric_id": 16445
+  },
+  {
+    "id": "bs-vu-thi-mai",
+    "name": "Bác sĩ Vũ Thị Mai",
+    "title": "Bác sĩ Dị ứng - Miễn dịch lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "hen-di-ung-mien-dich",
+    "numeric_id": 15986
+  },
+  {
+    "id": "bs-pham-thi-hai-yen",
+    "name": "Bác sĩ Phạm Thị Hải Yến",
+    "title": "Bác sĩ Dị ứng - Miễn dịch lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "hen-di-ung-mien-dich",
+    "numeric_id": 15109
+  },
+  {
+    "id": "bs-nguyen-quynh-anh",
+    "name": "Bác sĩ Nguyễn Quỳnh Anh",
+    "title": "Bác sĩ Dị ứng - Miễn dịch lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "hen-di-ung-mien-dich",
+    "numeric_id": 19500
+  },
+  {
+    "id": "bs-nguyen-thi-net",
+    "name": "Bác sĩ Nguyễn Thị Nét",
+    "title": "Bác sĩ Nội Hô hấp",
+    "clinic_id": "times-city",
+    "speciality_id": "ho-hap",
+    "numeric_id": 15117
+  },
+  {
+    "id": "bs-can-thi-hang",
+    "name": "Bác sĩ Cấn Thị Hằng",
+    "title": "Bác sĩ Nội hô hấp",
+    "clinic_id": "times-city",
+    "speciality_id": "ho-hap",
+    "numeric_id": 16723
+  },
+  {
+    "id": "bs-tt-kham-suc-khoe-thuong",
+    "name": "Bác sĩ TT Khám sức khỏe Thường",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 15867
+  },
+  {
+    "id": "bs-tt-kham-suc-khoe-cao-cap",
+    "name": "Bác sĩ TT Khám sức khỏe Cao cấp",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 15131
+  },
+  {
+    "id": "bs-tt-kham-suc-khoe-cao-cap-va-vvip",
+    "name": "Bác sĩ TT Khám sức khỏe Cao Cấp và VVIP",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 17288
+  },
+  {
+    "id": "bs-tran-thi-nguyet-thanh",
+    "name": "Bác sĩ Trần Thị Nguyệt Thanh",
+    "title": "Bác sĩ Nhãn khoa, Trung tâm Mắt Vinmec-Alina",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 19840
+  },
+  {
+    "id": "bs-tran-minh-ha",
+    "name": "Bác sĩ Trần Minh Hà",
+    "title": "Giám đốc Chuyên môn, Bệnh viện chuyên khoa Mắt Alina\nGiám đốc Chuyên môn, Trung tâm Mắt Vinmec - Alina, Bệnh viện ĐKQT Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 17287
+  },
+  {
+    "id": "bs-nguyen-thi-thu-huong",
+    "name": "Bác sĩ Nguyễn Thị Thu Hương",
+    "title": "Bác sĩ Nhãn khoa, Bệnh viện chuyên khoa Mắt Alina\nBác sĩ Nhãn khoa, Trung tâm Mắt Vinmec - Alina, Bệnh viện ĐKQT Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 16093
+  },
+  {
+    "id": "bs-nguyen-le-ngoc-khanh",
+    "name": "Bác sĩ Nguyễn Lê Ngọc Khanh",
+    "title": "Trưởng phòng đào tạo - Alina Vision Việt Nam, Bệnh viện chuyên khoa Mắt Alina\nBác sĩ Nhãn khoa, Trung tâm Mắt Vinmec - Alina, Bệnh viện ĐKQT Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 16482
+  },
+  {
+    "id": "bs-cu-thi-thanh-phuong",
+    "name": "Bác sĩ Cù Thị Thanh Phương",
+    "title": "Bác sĩ Nhãn khoa, Trung tâm Mắt Vinmec-Alina",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 19259
+  },
+  {
+    "id": "bs-nguyen-thi-thu-hong",
+    "name": "Bác sĩ Nguyễn Thị Thu Hồng",
+    "title": "Bác sĩ Nhãn khoa, Trung tâm Mắt Vinmec-Alina",
+    "clinic_id": "times-city",
+    "speciality_id": "mat",
+    "numeric_id": 19296
+  },
+  {
+    "id": "bs-tran-trung-dung",
+    "name": "Bác sĩ Trần Trung Dũng",
+    "title": "Tổng Giám Đốc hệ thống Y tế Vinmec\nTrưởng bộ môn Chấn thương chỉnh hình, Viện Khoa học sức khỏe, Đại học VinUni; Giáo sư thỉnh giảng (Visiting professor), Đại học thành phố Osaka, Nhật Bản\nGiám đốc chuyên môn Lab Công nghệ 3D trong Y học, VinUni \nChủ tịch Hội Công nghệ 3D trong Y học Việt Nam\nTrưởng ban Y học, Liên đoàn Bóng đá Việt Nam (VFF)",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17025
+  },
+  {
+    "id": "bs-noi-ung-buou-ung-thu-xuong-tran-van-cong",
+    "name": "Bác sĩ Nội ung bướu - ung thư xương Trần Văn Công",
+    "title": "Chuyên gia Nội Ung bướu - U xương & PM",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17284
+  },
+  {
+    "id": "bs-nguyen-ac-nghia",
+    "name": "Bác sĩ Nguyễn Đắc Nghĩa",
+    "title": "Chuyên gia Chấn thương Chỉnh hình",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15809
+  },
+  {
+    "id": "bs-phan-khoa-nguyen",
+    "name": "Bác sĩ Phan Khoa Nguyên",
+    "title": "Bác sĩ Ngoại khoa Khớp háng & Khung chậu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16091
+  },
+  {
+    "id": "bs-noi-ung-buou-ung-thu-xuongtran-tuyet-thanh-hai",
+    "name": "Bác sĩ Nội ung bướu - ung thư xươngTrần Tuyết Thanh Hải",
+    "title": "Bác sĩ Nội ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18945
+  },
+  {
+    "id": "bs-pham-trung-hieu",
+    "name": "Bác sĩ Phạm Trung Hiếu",
+    "title": "Trưởng khoa Phẫu thuật chi dưới",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16825
+  },
+  {
+    "id": "bs-tran-uc-thanh",
+    "name": "Bác sĩ Trần Đức Thanh",
+    "title": "Trưởng khoa Phẫu thuật U xương và Phần mềm",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18874
+  },
+  {
+    "id": "bs-tran-quyet",
+    "name": "Bác sĩ Trần Quyết",
+    "title": "Trưởng khoa Phẫu thuật chi trên",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17635
+  },
+  {
+    "id": "bs-ho-ngoc-minh",
+    "name": "Bác sĩ Hồ Ngọc Minh",
+    "title": "Bác sĩ Ngoại khoa Nội soi khớp & Y học thể thao",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17073
+  },
+  {
+    "id": "bs-nguyen-tran-quang-sang",
+    "name": "Bác sĩ Nguyễn Trần Quang Sáng",
+    "title": "Giám đốc Trung tâm Cơ xương khớp & CTCH",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19439
+  },
+  {
+    "id": "bs-phong-kham-chi-duoi",
+    "name": "Bác sĩ Phòng Khám Chi Dưới",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19554
+  },
+  {
+    "id": "bs-phong-kham-chi-tren",
+    "name": "Bác sĩ Phòng Khám Chi Trên",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 3725
+  },
+  {
+    "id": "bs-phong-kham-cot-song",
+    "name": "Bác sĩ Phòng Khám Cột Sống",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19261
+  },
+  {
+    "id": "bs-phong-kham-y-hoc-the-thao",
+    "name": "Bác sĩ Phòng Khám Y học thể thao",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17584
+  },
+  {
+    "id": "bs-phong-kham-u-xuong",
+    "name": "Bác sĩ Phòng khám U Xương",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18973
+  },
+  {
+    "id": "bs-phuc-hoi-chuc-nang-nguyen-khanh-chi",
+    "name": "Bác sĩ Phục hồi chức năng Nguyễn Khánh Chi",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15926
+  },
+  {
+    "id": "bs-vu-ngoc-thang",
+    "name": "Bác sĩ Vũ Ngọc Thắng",
+    "title": "Bác sĩ phẫu thuật Tiết niệu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19260
+  },
+  {
+    "id": "bs-nguyen-le-duy",
+    "name": "Bác sĩ Nguyễn Lê Duy",
+    "title": "Bác sĩ Ngoại Tiết niệu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19358
+  },
+  {
+    "id": "bs-le-van-hung",
+    "name": "Bác sĩ Lê Văn Hùng",
+    "title": "Bác sĩ Ngoại Tiết niệu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 17918
+  },
+  {
+    "id": "bs-hoang-tho",
+    "name": "Bác sĩ Hoàng Thọ",
+    "title": "Chuyên gia Ngoại Tiết niệu",
+    "clinic_id": "times-city",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 18253
+  },
+  {
+    "id": "bs-le-thi-minh-huong",
+    "name": "Bác sĩ Lê Thị Minh Hương",
+    "title": "Trưởng khoa Nội Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 17632
+  },
+  {
+    "id": "bs-nguyen-thi-hoan",
+    "name": "Bác sĩ Nguyễn Thị Hoàn",
+    "title": "Chuyên gia cao cấp Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19197
+  },
+  {
+    "id": "bs-ho-sy-ha",
+    "name": "Bác sĩ Hồ Sỹ Hà",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19282
+  },
+  {
+    "id": "bs-ninh-thi-ung",
+    "name": "Bác sĩ Ninh Thị Ứng",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15053
+  },
+  {
+    "id": "bs-phung-tuyet-lan",
+    "name": "Bác sĩ Phùng Tuyết Lan",
+    "title": "Chuyên gia Ung bướu nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16040
+  },
+  {
+    "id": "bs-bui-phuong-thao",
+    "name": "Bác sĩ Bùi Phương Thảo",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 17773
+  },
+  {
+    "id": "bs-nguyen-thi-thuy-linh",
+    "name": "Bác sĩ Nguyễn Thị Thùy Linh",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 14946
+  },
+  {
+    "id": "bs-cao-thi-giang",
+    "name": "Bác sĩ Cao Thị Giang",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15918
+  },
+  {
+    "id": "bs-bui-viet-trung",
+    "name": "Bác sĩ Bùi Việt Trung",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19299
+  },
+  {
+    "id": "bs-hoang-xuan-ai",
+    "name": "Bác sĩ Hoàng Xuân Đại",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19761
+  },
+  {
+    "id": "bs-bui-thi-kim-oanh",
+    "name": "Bác sĩ Bùi Thị Kim Oanh",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15878
+  },
+  {
+    "id": "bs-nguyen-thi-kien",
+    "name": "Bác sĩ Nguyễn Thị Kiên",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15126
+  },
+  {
+    "id": "bs-pham-khac-tiep",
+    "name": "Bác sĩ Phạm Khắc Tiệp",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19327
+  },
+  {
+    "id": "bs-nguyen-thi-tam",
+    "name": "Bác sĩ Nguyễn Thị Tâm",
+    "title": "Chuyên gia Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 18471
+  },
+  {
+    "id": "bs-pham-lan-huong",
+    "name": "Bác sĩ Phạm Lan Hương",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 3730
+  },
+  {
+    "id": "bs-pham-gia-han",
+    "name": "Bác sĩ Phạm Gia Hân",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19257
+  },
+  {
+    "id": "bs-nguyen-thuy-dung",
+    "name": "Bác sĩ Nguyễn Thùy Dung",
+    "title": "Bác sĩ Ung bướu nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 20071
+  },
+  {
+    "id": "bs-bui-thu-huong",
+    "name": "Bác sĩ Bùi Thu Hương",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15950
+  },
+  {
+    "id": "bs-pham-thi-khuong",
+    "name": "Bác sĩ Phạm Thị Khương",
+    "title": "Bác sĩ Truyền nhiễm",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16618
+  },
+  {
+    "id": "bs-pham-thi-van-anh",
+    "name": "Bác sĩ Phạm Thị Vân Anh",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19555
+  },
+  {
+    "id": "bs-tran-thi-mai-anh",
+    "name": "Bác sĩ Trần Thị Mai Anh",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19095
+  },
+  {
+    "id": "bs-vuong-thi-thuy-hoai",
+    "name": "Bác sĩ Vương Thị Thúy Hoài",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16727
+  },
+  {
+    "id": "bs-nguyen-thi-ngoc-lan",
+    "name": "Bác sĩ Nguyễn Thị Ngọc Lan",
+    "title": "Bác sĩ Nội cơ xương khớp",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 15960
+  },
+  {
+    "id": "bs-ao-thi-trang",
+    "name": "Bác sĩ Đào Thị Trang",
+    "title": "Bác sĩ Nội cơ xương khớp",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 19862
+  },
+  {
+    "id": "bs-nguyen-thi-oanh",
+    "name": "Bác sĩ Nguyễn Thị Oanh",
+    "title": "Bác sĩ Nội cơ xương khớp",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 3722
+  },
+  {
+    "id": "bs-tran-thi-tuyet-nhung",
+    "name": "Bác sĩ Trần Thị Tuyết Nhung",
+    "title": "Bác sĩ Nội Cơ xương khớp",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 15978
+  },
+  {
+    "id": "bs-nguyen-thi-minh-phuong",
+    "name": "Bác sĩ Nguyễn Thị Minh Phương",
+    "title": "Trưởng Khoa Nội thần kinh - Đột quỵ",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 19096
+  },
+  {
+    "id": "bs-vu-dung-kien",
+    "name": "Bác sĩ Vũ Dũng Kiên",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15121
+  },
+  {
+    "id": "bs-nguyen-thi-huong",
+    "name": "Bác sĩ Nguyễn Thị Hường",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15887
+  },
+  {
+    "id": "bs-trinh-ngoc-anh",
+    "name": "Bác sĩ Trịnh Ngọc Anh",
+    "title": "Chuyên gia Nội tiết",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15946
+  },
+  {
+    "id": "bs-pham-thu-ha",
+    "name": "Bác sĩ Phạm Thu Hà",
+    "title": "Chuyên gia Nội tiết",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15921
+  },
+  {
+    "id": "bs-bui-chi-nam",
+    "name": "Bác sĩ Bùi Chí Nam",
+    "title": "Bác sĩ Nội tiêu hóa",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 17964
+  },
+  {
+    "id": "bs-tran-van-quoc-thinh",
+    "name": "Bác sĩ Trần Văn Quốc Thịnh",
+    "title": "Bác sĩ Nội tiêu hoá",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 15052
+  },
+  {
+    "id": "bs-nguyen-xuan-muoi",
+    "name": "Bác sĩ Nguyễn Xuân Mười",
+    "title": "Trưởng khoa Nội soi can thiệp",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 19997
+  },
+  {
+    "id": "bs-ta-que-phuong",
+    "name": "Bác sĩ Tạ Quế Phương",
+    "title": "Bác sĩ Nội tiêu hóa",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 16012
+  },
+  {
+    "id": "bs-pham-thi-thu-huong",
+    "name": "Bác sĩ Phạm Thị Thu Hương",
+    "title": "Trưởng khoa Nội Tiêu hóa",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 16106
+  },
+  {
+    "id": "bs-ha-van-quoc",
+    "name": "Bác sĩ Hà Văn Quốc",
+    "title": "Bác sĩ Nội tiêu hóa – Nội soi, tại Khoa Nội Tiêu hóa - Gan mật",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 3807
+  },
+  {
+    "id": "bs-duong-minh-thang",
+    "name": "Bác sĩ Dương Minh Thắng",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 15969
+  },
+  {
+    "id": "bs-nguyen-ngoc-quang",
+    "name": "Bác sĩ Nguyễn Ngọc Quang",
+    "title": "Phó Tổng Giám đốc Chuyên môn Nội & Nghiên cứu khoa học",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15925
+  },
+  {
+    "id": "bs-oan-uc-dung",
+    "name": "Bác sĩ Đoàn Đức Dũng",
+    "title": "Giám đốc Trung tâm Tim mạch - Bệnh viện Vinmec Times City\nTrưởng khoa can thiệp Tim mạch - Bệnh viện Vinmec Times City\nPhụ trách chuyên môn về can thiệp Tim mạch của hệ thống Vinmec\nTrưởng Tiểu ban Tim mạch của hội 3D y học Việt Nam\nPhó chủ tịch hội đồng chuyên ngành Tim mạch - Lồng ngực hệ thống Vinmec\nGiảng viên thỉnh giảng lâm sàng Nội tim mạch - Tim mạch can thiệp, Đại học VinUni, Đại học Y Hà Nội",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 18798
+  },
+  {
+    "id": "bs-le-thi-hoa",
+    "name": "Bác sĩ Lê Thị Hoa",
+    "title": "Bác sĩ Nội và Chẩn đoán hình ảnh – Thăm dò chức năng Tim Mạch và can thiệp điều trị suy Tĩnh mạch.Bác sĩ Nội và Chẩn đoán hình ảnh – Thăm dò chức năng Tim Mạch và can thiệp điều trị suy Tĩnh mạch.",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15132
+  },
+  {
+    "id": "bs-vu-quoc-oai",
+    "name": "Bác sĩ Vũ Quốc Oai",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15197
+  },
+  {
+    "id": "bs-ngo-uc-manh",
+    "name": "Bác sĩ Ngô Đức Mạnh",
+    "title": "Bác sĩ Nội và Can thiệp tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16478
+  },
+  {
+    "id": "bs-o-xuan-chien",
+    "name": "Bác sĩ Đỗ Xuân Chiến",
+    "title": "Bác sĩ Nội - Can thiệp tim mạch kiêm Giám đốc chương trình quản lý bệnh mạch vành tại Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 19553
+  },
+  {
+    "id": "bs-o-viet-thang",
+    "name": "Bác sĩ Đỗ Viết Thắng",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15051
+  },
+  {
+    "id": "bs-duong-thu-anh",
+    "name": "Bác sĩ Dương Thu Anh",
+    "title": "Phó Giám đốc Trung tâm Tim mạch kiêm Trưởng chuyên khoa Nội Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 18469
+  },
+  {
+    "id": "bs-nguyen-anh-quan",
+    "name": "Bác sĩ Nguyễn Anh Quân",
+    "title": "Bác sĩ Nội tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16032
+  },
+  {
+    "id": "bs-nguyen-thi-tuyet-minh",
+    "name": "Bác sĩ Nguyễn Thị Tuyết Minh",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 17863
+  },
+  {
+    "id": "bs-nguyen-bang-phong",
+    "name": "Bác sĩ Nguyễn Bằng Phong",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16227
+  },
+  {
+    "id": "bs-nguyen-anh-huy",
+    "name": "Bác sĩ Nguyễn Anh Huy",
+    "title": "Thạc sĩ, Bác sĩ - Trung tâm Tim mạch – Phụ trách Ngoại Tim mạch – Lồng ngực, Bệnh viện ĐKQT Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 19834
+  },
+  {
+    "id": "bs-ang-thi-linh",
+    "name": "Bác sĩ Đặng Thị Linh",
+    "title": "Bác sĩ Nội và chẩn đoán hình ảnh, thăm dò chức năng tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15916
+  },
+  {
+    "id": "bs-reinel-martin-alvarez-plasencia",
+    "name": "Bác sĩ Reinel Martin Alvarez Plasencia",
+    "title": "Bác sĩ nội tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15049
+  },
+  {
+    "id": "bs-le-xuan-than",
+    "name": "Bác sĩ Lê Xuân Thận",
+    "title": "Bác sĩ CTV Can thiệp Tim mạch",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 3796
+  },
+  {
+    "id": "bs-ao-kim-phuong",
+    "name": "Bác sĩ Đào Kim Phượng",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 17966
+  },
+  {
+    "id": "bs-lai-o-quyen",
+    "name": "Bác sĩ Lại Đỗ Quyên",
+    "title": "Bác sĩ Răng - Hàm - Mặt",
+    "clinic_id": "times-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 16036
+  },
+  {
+    "id": "bs-phan-thi-tinh",
+    "name": "Bác sĩ Phan Thị Tình",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 19258
+  },
+  {
+    "id": "bs-nguyen-quoc-tuan",
+    "name": "Bác sĩ Nguyễn Quốc Tuấn",
+    "title": "Chuyên gia phụ khoa",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19706
+  },
+  {
+    "id": "bs-le-thien-thai",
+    "name": "Bác sĩ Lê Thiện Thái",
+    "title": "Chuyên gia Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17113
+  },
+  {
+    "id": "bs-nguyen-thu-hoai",
+    "name": "Bác sĩ Nguyễn Thu Hoài",
+    "title": "Trưởng khoa Phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17900
+  },
+  {
+    "id": "bs-o-thi-ngoc-lan",
+    "name": "Bác sĩ Đỗ Thị Ngọc Lan",
+    "title": "Chuyên gia Sản phụ khoa",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15649
+  },
+  {
+    "id": "bs-oan-van-nam",
+    "name": "Bác sĩ Đoàn Văn Nam",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16035
+  },
+  {
+    "id": "bs-inh-thi-hien-le",
+    "name": "Bác sĩ Đinh Thị Hiền Lê",
+    "title": "Phó Chủ tịch Hội đồng Chuyên ngành Sản kiêm Trưởng Chuyên khoa Y học bào thai Bệnh viện Đa Khoa Quốc tế Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15085
+  },
+  {
+    "id": "bs-nguyen-thi-huong-linh",
+    "name": "Bác sĩ Nguyễn Thị Hương Linh",
+    "title": "Trưởng khoa Sản",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16776
+  },
+  {
+    "id": "bs-vu-duy-thai",
+    "name": "Bác sĩ Vũ Duy Thái",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18015
+  },
+  {
+    "id": "bs-phung-thi-ly",
+    "name": "Bác sĩ Phùng Thị Lý",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19852
+  },
+  {
+    "id": "bs-nguyen-inh-toi",
+    "name": "Bác sĩ Nguyễn Đình Tời",
+    "title": "Chuyên gia Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16090
+  },
+  {
+    "id": "bs-tran-thi-thu-ha",
+    "name": "Bác sĩ Trần Thị Thu Hà",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16254
+  },
+  {
+    "id": "bs-nguyen-thi-tan-sinh",
+    "name": "Bác sĩ Nguyễn Thị Tân Sinh",
+    "title": "Phó Chủ tịch Hội đồng Chuyên ngành Sản",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17963
+  },
+  {
+    "id": "bs-vu-thi-hong-chinh",
+    "name": "Bác sĩ Vũ Thị Hồng Chính",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18975
+  },
+  {
+    "id": "bs-nguyen-thi-han",
+    "name": "Bác sĩ Nguyễn Thị Hân",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17129
+  },
+  {
+    "id": "bs-nguyen-thi-kim-dung",
+    "name": "Bác sĩ Nguyễn Thị Kim Dung",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16358
+  },
+  {
+    "id": "bs-le-vinh-phuc",
+    "name": "Bác sĩ Lê Vĩnh Phúc",
+    "title": "Bác sĩ tại bệnh viện Đông Đô\r\nBác sĩ tại phòng khám chuyên khoa Phụ sản Phương Mai\r\nBác sĩ tại phòng khám Sản phụ khoa Lê Vĩnh Phúc\r\nBác sĩ tại khoa Sản Phụ - Bệnh viện Đa khoa quốc tế Vinmec cơ sở Minh Khai\r\nNguyên bác sĩ tại khoa Sản - Bệnh viện Việt Pháp",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19833
+  },
+  {
+    "id": "bs-nguyen-phuong-thao",
+    "name": "Bác sĩ Nguyễn Phương Thảo",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16114
+  },
+  {
+    "id": "bs-sieu-am-hinh-thai-thai-nhi-3d4d-nguyen-quang-nam",
+    "name": "Bác sĩ Siêu âm hình thái thai nhi (3D/4D) Nguyễn Quang Nam",
+    "title": "Chuyên gia Siêu âm",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16537
+  },
+  {
+    "id": "bs-kharytonchyk-aksana",
+    "name": "Bác sĩ Kharytonchyk Aksana",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19305
+  },
+  {
+    "id": "bs-nguyen-anh-son",
+    "name": "Bác sĩ Nguyễn Anh Sơn",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17127
+  },
+  {
+    "id": "bs-sieu-am-y-hoc-bao-thai-vo-ta-son",
+    "name": "Bác sĩ Siêu âm Y học bào thai Võ Tá sơn",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15581
+  },
+  {
+    "id": "bs-chuyen-gia-phu-khoa",
+    "name": "Bác sĩ Chuyên Gia Phụ Khoa",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17869
+  },
+  {
+    "id": "bs-chan-oan-truoc-sinh-y-hoc-bao-thai",
+    "name": "Bác sĩ Chẩn Đoán Trước Sinh - Y Học Bào Thai",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17669
+  },
+  {
+    "id": "bs-phong-kham-tien-man-kinh-man-kinh",
+    "name": "Bác sĩ Phòng khám Tiền mãn kinh, mãn kinh",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18817
+  },
+  {
+    "id": "bs-sieu-am-y-hoc-bao-thai-inh-thi-hien-le",
+    "name": "Bác sĩ Siêu âm Y học bào thai Đinh Thị Hiền Lê",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19403
+  },
+  {
+    "id": "bs-vu-xuan-loc",
+    "name": "Bác sĩ Vũ Xuân Lộc",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19890
+  },
+  {
+    "id": "bs-sieu-am-hinh-thai-thai-nhi-3d4d-pham-minh-kiem",
+    "name": "Bác sĩ Siêu âm hình thái thai nhi (3D/4D) Phạm Minh Kiêm",
+    "title": "Chuyên gia Siêu âm",
+    "clinic_id": "times-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19224
+  },
+  {
+    "id": "bs-bui-the-anh",
+    "name": "Bác sĩ Bùi Thế Anh",
+    "title": "Giám đốc Trung tâm Tai mũi họng - Đầu cổ",
+    "clinic_id": "times-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 17614
+  },
+  {
+    "id": "bs-le-tuan-nhat-hoang",
+    "name": "Bác sĩ Lê Tuấn Nhật Hoàng",
+    "title": "Bác sĩ Tai - Mũi - Họng",
+    "clinic_id": "times-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 16017
+  },
+  {
+    "id": "bs-tran-huu-tuan",
+    "name": "Bác sĩ Trần Hữu Tuấn",
+    "title": "Trưởng khoa PT Đầu cổ & Tạo hình thẩm mỹ",
+    "clinic_id": "times-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15139
+  },
+  {
+    "id": "bs-nguyen-vinh-toan",
+    "name": "Bác sĩ Nguyễn Vĩnh Toàn",
+    "title": "Bác sĩ Tai - Mũi - Họng",
+    "clinic_id": "times-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18290
+  },
+  {
+    "id": "bs-tran-thi-thu-hien",
+    "name": "Bác sĩ Trần Thị Thu Hiền",
+    "title": "Bác sĩ Gây mê",
+    "clinic_id": "times-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18071
+  },
+  {
+    "id": "bs-nguyen-uc-nam",
+    "name": "Chuyên gia Nguyễn Đức Nam",
+    "title": "Trưởng chuyên khoa tâm lý",
+    "clinic_id": "times-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 16019
+  },
+  {
+    "id": "bs-ang-thi-thanh-tung",
+    "name": "Chuyên gia Đặng Thị Thanh Tùng",
+    "title": "Nhà tâm lý lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 17121
+  },
+  {
+    "id": "bs-nguyen-quoc-trong",
+    "name": "Chuyên viên y tế Nguyễn Quốc Trọng",
+    "title": "Nhà tâm lý lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 19281
+  },
+  {
+    "id": "bs-pham-hoai-thu",
+    "name": "Chuyên viên y tế Phạm Hoài Thu",
+    "title": "Nhà tâm lý lâm sàng",
+    "clinic_id": "times-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 17961
+  },
+  {
+    "id": "bs-paul-michael-ohalloran",
+    "name": "Chuyên gia Paul Michael O’Halloran",
+    "title": "Trưởng khoa sức khỏe tinh thần",
+    "clinic_id": "times-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 19946
+  },
+  {
+    "id": "bs-truong-thi-van",
+    "name": "Bác sĩ Trương Thị Vân",
+    "title": "Bác sĩ Y Học Cổ Truyền - Bộ phận Bào chế",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 16775
+  },
+  {
+    "id": "bs-oan-ngoc-quynh",
+    "name": "Bác sĩ Đoàn Ngọc Quỳnh",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 15963
+  },
+  {
+    "id": "bs-nguyen-hai-ha",
+    "name": "Bác sĩ Nguyễn Hải Hà",
+    "title": "Trưởng khoa Vaccine",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 18487
+  },
+  {
+    "id": "bs-quach-nguyen-thu-thuy",
+    "name": "Bác sĩ Quách Nguyễn Thu Thủy",
+    "title": "Bác sỹ khám và điều trị Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 15113
+  },
+  {
+    "id": "bs-tran-thanh-phuoc",
+    "name": "Bác sĩ Trần Thanh Phước",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 17736
+  },
+  {
+    "id": "bs-le-thi-thu-ha",
+    "name": "Bác sĩ Lê Thị Thu Hà",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 15870
+  },
+  {
+    "id": "bs-nguyen-thi-hien",
+    "name": "Bác sĩ Nguyễn Thị Hiền",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 18463
+  },
+  {
+    "id": "bs-nguyen-van-toan",
+    "name": "Bác sĩ Nguyễn Văn Toàn",
+    "title": "",
+    "clinic_id": "times-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 19505
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-pham-hoang-giang",
+    "name": "Bác sĩ Ung bướu Tổng hợp Phạm Hoàng Giang",
+    "title": "Bác sĩ Nội ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 19837
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-quach-thanh-dung",
+    "name": "Bác sĩ Ung bướu Tổng hợp Quách Thanh Dung",
+    "title": "Trưởng khoa Nội Ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 15646
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-le-ngoc-may",
+    "name": "Bác sĩ Ung bướu Tổng hợp Lê Ngọc Mây",
+    "title": "Bác sĩ Nội Ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 15991
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-nguyen-thi-thu-ha",
+    "name": "Bác sĩ Ung bướu Tổng hợp Nguyễn Thị Thu Hà",
+    "title": "Bác sĩ Nội khoa ung thư",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 18303
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-ao-thi-thu-trang",
+    "name": "Bác sĩ Ung bướu Tổng hợp Đào Thị Thu Trang",
+    "title": "Bác sĩ Nội khoa Ung thư",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 17114
+  },
+  {
+    "id": "bs-ung-buou-tong-hop-nguyen-thi-phi-yen",
+    "name": "Bác sĩ Ung bướu Tổng hợp Nguyễn Thị Phi Yến",
+    "title": "Bác sĩ Ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 15582
+  },
+  {
+    "id": "bs-chuyen-ung-buou-tong-hop-nguyen-thi-thanh-huyen",
+    "name": "Bác sĩ Chuyên Ung bướu Tổng hợp Nguyễn Thị Thanh Huyền",
+    "title": "Bác sĩ Ung bướu",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 15892
+  },
+  {
+    "id": "bs-chuyen-ung-buou-xa-tri-le-uc-anh",
+    "name": "Bác sĩ Chuyên Ung bướu Xạ trị Lê Đức Anh",
+    "title": "Bác sĩ xạ trị",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 17969
+  },
+  {
+    "id": "bs-chuyen-ung-buou-xa-tri-duong-van-nghia",
+    "name": "Bác sĩ Chuyên Ung bướu Xạ trị Dương Văn Nghĩa",
+    "title": "Bác sĩ xạ trị Ung thư",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 18302
+  },
+  {
+    "id": "bs-chuyen-ung-buou-xa-tri-nguyen-manh-ha",
+    "name": "Bác sĩ Chuyên Ung bướu Xạ trị Nguyễn Mạnh Hà",
+    "title": "Bác sĩ xạ trị",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 15954
+  },
+  {
+    "id": "bs-chuyen-ung-buou-xa-tri-oan-trung-hiep",
+    "name": "Bác sĩ Chuyên Ung bướu Xạ trị Đoàn Trung Hiệp",
+    "title": "Chủ tịch Hội đồng Chuyên ngành Ung bướu Hệ thống y tế Vinmec\n\nGiám đốc Trung tâm Ung bướu Xạ trị kiêm Trưởng khoa xạ trị Vinmec Times City",
+    "clinic_id": "times-city",
+    "speciality_id": "trung-tam-ung-buou",
+    "numeric_id": 3763
+  },
+  {
+    "id": "bs-luong-thi-giang-lam",
+    "name": "Bác sĩ Lương Thị Giang Lam",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "da-lieu",
+    "numeric_id": 18500
+  },
+  {
+    "id": "bs-ao-viet-hung",
+    "name": "Bác sĩ Đào Việt Hùng",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "mat",
+    "numeric_id": 20076
+  },
+  {
+    "id": "bs-vo-sy-quyen-nang",
+    "name": "Bác sĩ Võ Sỹ Quyền Năng",
+    "title": "Trưởng khoa Chấn thương chỉnh hình & Cơ xương khớp",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16473
+  },
+  {
+    "id": "bs-to-ong-kha",
+    "name": "Bác sĩ Tô Đông Kha",
+    "title": "Bác sĩ Ngoại Chấn thương chỉnh hình",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15025
+  },
+  {
+    "id": "bs-tran-uc-tuan",
+    "name": "Bác sĩ Trần Đức Tuấn",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16089
+  },
+  {
+    "id": "bs-nguyen-cong-hieu",
+    "name": "Bác sĩ Nguyễn Công Hiếu",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 16819
+  },
+  {
+    "id": "bs-pham-thi-van-hanh",
+    "name": "Bác sĩ Phạm Thị Vân Hạnh",
+    "title": "Bác sĩ Nhi - Sơ sinh",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "nhi",
+    "numeric_id": 16027
+  },
+  {
+    "id": "bs-hoang-thi-mai",
+    "name": "Bác sĩ Hoàng Thị Mai",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "nhi",
+    "numeric_id": 15981
+  },
+  {
+    "id": "bs-nguyen-thanh-hien",
+    "name": "Bác sĩ Nguyễn Thanh Hiền",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "nhi",
+    "numeric_id": 16824
+  },
+  {
+    "id": "bs-nguyen-trung-phong",
+    "name": "Bác sĩ Nguyễn Trung Phong",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "nhi",
+    "numeric_id": 15023
+  },
+  {
+    "id": "bs-nguyen-ho-diu",
+    "name": "Bác sĩ Nguyễn Hồ Dịu",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "nhi",
+    "numeric_id": 19911
+  },
+  {
+    "id": "bs-nguyen-thi-ly",
+    "name": "Bác sĩ Nguyễn Thị Ly",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 15998
+  },
+  {
+    "id": "bs-ong-thi-dung",
+    "name": "Bác sĩ Đồng Thị Dung",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 3690
+  },
+  {
+    "id": "bs-tran-van-tien",
+    "name": "Bác sĩ Trần Văn Tiến",
+    "title": "Bác sĩ Nội soi Tiêu hóa",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 20007
+  },
+  {
+    "id": "bs-nguyen-thi-mai-huong",
+    "name": "Bác sĩ Nguyễn Thị Mai Hương",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 17740
+  },
+  {
+    "id": "bs-tran-trong-hieu",
+    "name": "Bác sĩ Trần Trọng Hiếu",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 18300
+  },
+  {
+    "id": "bs-le-van-hai",
+    "name": "Bác sĩ Lê Văn Hai",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 17631
+  },
+  {
+    "id": "bs-inh-thi-lan-huong",
+    "name": "Bác sĩ Định Thị Lan Hương",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19306
+  },
+  {
+    "id": "bs-pham-ngoc-ha",
+    "name": "Bác sĩ Phạm Ngọc Hà",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18690
+  },
+  {
+    "id": "bs-nguyen-thi-nhai",
+    "name": "Bác sĩ Nguyễn Thị Nhài",
+    "title": "Bác sĩ Tai Mũi Họng",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15116
+  },
+  {
+    "id": "bs-trinh-ac-chung",
+    "name": "Bác sĩ Trịnh Đắc Chung",
+    "title": "",
+    "clinic_id": "ocean-park-2",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 3721
+  },
+  {
+    "id": "bs-nguyen-thi-thu-trang",
+    "name": "Bác sĩ Nguyễn Thị Thu Trang",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "central-park",
+    "speciality_id": "da-lieu",
+    "numeric_id": 17965
+  },
+  {
+    "id": "bs-nguyen-quang-lam",
+    "name": "Bác sĩ Nguyễn Quang Lâm",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "central-park",
+    "speciality_id": "da-lieu",
+    "numeric_id": 19502
+  },
+  {
+    "id": "bs-thach-truong-phuong-nhi",
+    "name": "Bác sĩ Thạch Trương Phương Nhi",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "da-lieu",
+    "numeric_id": 15017
+  },
+  {
+    "id": "bs-tran-thi-diem-trang",
+    "name": "Bác sĩ Trần Thị Diễm Trang",
+    "title": "Bác sĩ Nội hô hấp",
+    "clinic_id": "central-park",
+    "speciality_id": "ho-hap",
+    "numeric_id": 17285
+  },
+  {
+    "id": "bs-bac-si-health-check-01",
+    "name": "Bác sĩ Bác sĩ Health Check 01",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 19423
+  },
+  {
+    "id": "bs-phong-kham-mat-1",
+    "name": "Bác sĩ Phòng khám mắt 1",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "mat",
+    "numeric_id": 15074
+  },
+  {
+    "id": "bs-phong-kham-mat-2",
+    "name": "Bác sĩ Phòng khám mắt 2",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "mat",
+    "numeric_id": 16790
+  },
+  {
+    "id": "bs-vo-khac-khoi-nguyen",
+    "name": "Bác sĩ Võ Khắc Khôi Nguyên",
+    "title": "Bác sĩ Ngoại Chấn thương Chỉnh hình",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16357
+  },
+  {
+    "id": "bs-nguyen-trong-anh",
+    "name": "Bác sĩ Nguyễn Trọng Anh",
+    "title": "Bác sĩ Chấn thương Chỉnh hình và Y học thể thao",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15084
+  },
+  {
+    "id": "bs-tran-van-vuong",
+    "name": "Bác sĩ Trần Văn Vương",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18224
+  },
+  {
+    "id": "bs-vo-duy-tam",
+    "name": "Bác sĩ Võ Duy Tâm",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 17892
+  },
+  {
+    "id": "bs-oan-anh-sang",
+    "name": "Bác sĩ Đoàn Anh Sang",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 3769
+  },
+  {
+    "id": "bs-vu-uc-cong",
+    "name": "Bác sĩ Vũ Đức Công",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19458
+  },
+  {
+    "id": "bs-nguyen-huynh-ang-khoa",
+    "name": "Bác sĩ Nguyễn Huỳnh Đăng Khoa",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 17873
+  },
+  {
+    "id": "bs-hoang-ngoc-long",
+    "name": "Bác sĩ Hoàng Ngọc Long",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 17971
+  },
+  {
+    "id": "bs-le-cong-uc",
+    "name": "Bác sĩ Lê Công Đức",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 3879
+  },
+  {
+    "id": "bs-chau-anh-vu",
+    "name": "Bác sĩ Châu Anh Vũ",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19133
+  },
+  {
+    "id": "bs-huynh-thoai-loan",
+    "name": "Bác sĩ Huỳnh Thoại Loan",
+    "title": "Chuyên gia cao cấp - Nhi Sơ sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 19228
+  },
+  {
+    "id": "bs-vu-thi-hieu",
+    "name": "Bác sĩ Vũ Thị Hiệu",
+    "title": "Bác sĩ Nhi - Sơ Sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 18429
+  },
+  {
+    "id": "bs-ao-quoc-anh",
+    "name": "Bác sĩ Đào Quốc Anh",
+    "title": "Bác sĩ Nhi - Sơ sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 15064
+  },
+  {
+    "id": "bs-ho-thi-ngoc-bich",
+    "name": "Bác sĩ Hồ Thị Ngọc Bích",
+    "title": "Bác sĩ Nhi - Sơ Sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 15019
+  },
+  {
+    "id": "bs-ang-thi-ngoc-chuong",
+    "name": "Bác sĩ Đặng Thị Ngọc Chương",
+    "title": "Bác sĩ Nhi - Sơ sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 17020
+  },
+  {
+    "id": "bs-tran-mai-phuong",
+    "name": "Bác sĩ Trần Mai Phương",
+    "title": "Trưởng khoa Nhi - Sơ sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 18948
+  },
+  {
+    "id": "bs-ngo-thuy-ha",
+    "name": "Bác sĩ Ngô Thúy Hà",
+    "title": "Bác sĩ Nhi khoa",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 17023
+  },
+  {
+    "id": "bs-nguyen-thi-huynh-nhu",
+    "name": "Bác sĩ Nguyễn Thị Huỳnh Như",
+    "title": "Bác sĩ Nhi sơ sinh",
+    "clinic_id": "central-park",
+    "speciality_id": "nhi",
+    "numeric_id": 19853
+  },
+  {
+    "id": "bs-tran-thi-phuoc-yen",
+    "name": "Bác sĩ Trần Thị Phước Yên",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15873
+  },
+  {
+    "id": "bs-le-kim-khanh",
+    "name": "Bác sĩ Lê Kim Khánh",
+    "title": "Trưởng khoa Nội thần kinh",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 16354
+  },
+  {
+    "id": "bs-nguyen-thi-hung",
+    "name": "Bác sĩ Nguyễn Thi Hùng",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 19459
+  },
+  {
+    "id": "bs-le-la-kim-khanh",
+    "name": "Bác sĩ Lê La Kim Khánh",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 19406
+  },
+  {
+    "id": "bs-nguyen-xuan-thang",
+    "name": "Bác sĩ Nguyễn Xuân Thắng",
+    "title": "Trưởng khoa Nội tổng hợp",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15812
+  },
+  {
+    "id": "bs-nguyen-thi-ngoc",
+    "name": "Bác sĩ Nguyễn Thị Ngọc",
+    "title": "Bác sĩ Nội",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15944
+  },
+  {
+    "id": "bs-nguyen-thi-thu-ha",
+    "name": "Bác sĩ Nguyễn Thị Thu Hà",
+    "title": "Bác sĩ Nội tiêu hóa",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 15572
+  },
+  {
+    "id": "bs-tran-thi-hoang-yen",
+    "name": "Bác sĩ Trần Thị Hoàng Yến",
+    "title": "Bác sĩ Nội tiêu hóa",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 17542
+  },
+  {
+    "id": "bs-ao-minh-phuong",
+    "name": "Bác sĩ Đào Minh Phương",
+    "title": "Trưởng khoa Nội soi can thiệp",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 15923
+  },
+  {
+    "id": "bs-nguyen-ngoc-thuong",
+    "name": "Bác sĩ Nguyễn Ngọc Thương",
+    "title": "Bác sĩ Nội soi Tiêu hóa",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 17024
+  },
+  {
+    "id": "bs-cao-thanh-tam",
+    "name": "Bác sĩ Cao Thanh Tâm",
+    "title": "Bác sĩ Nội tim mạch",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 19855
+  },
+  {
+    "id": "bs-tran-hong-nhat",
+    "name": "Bác sĩ Trần Hồng Nhật",
+    "title": "Bác sĩ Tim mạch can thiệp",
+    "clinic_id": "central-park",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16100
+  },
+  {
+    "id": "bs-phong-kham-rhm",
+    "name": "Bác sĩ Phòng khám RHM",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 17962
+  },
+  {
+    "id": "bs-phong-kham-rhm-1",
+    "name": "Bác sĩ Phòng khám RHM 1",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 16277
+  },
+  {
+    "id": "bs-nguyen-chi-quang",
+    "name": "Bác sĩ Nguyễn Chí Quang",
+    "title": "Trưởng khoa Sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18440
+  },
+  {
+    "id": "bs-phan-diem-oan-ngoc",
+    "name": "Bác sĩ Phan Diễm Đoan Ngọc",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15016
+  },
+  {
+    "id": "bs-nguyen-thi-huong-xuan",
+    "name": "Bác sĩ Nguyễn Thị Hương Xuân",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16476
+  },
+  {
+    "id": "bs-nguyen-sy-quang",
+    "name": "Bác sĩ Nguyễn Sỹ Quảng",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16671
+  },
+  {
+    "id": "bs-ho-huynh-nhung",
+    "name": "Bác sĩ Hồ Huỳnh Nhung",
+    "title": "Bác sĩ sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17019
+  },
+  {
+    "id": "bs-nguyen-thi-minh-tuyet",
+    "name": "Bác sĩ Nguyễn Thị Minh Tuyết",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 3646
+  },
+  {
+    "id": "bs-chau-thi-thuy",
+    "name": "Bác sĩ Châu Thị Thuý",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 14942
+  },
+  {
+    "id": "bs-trinh-nhat-thu-huong",
+    "name": "Bác sĩ Trịnh Nhật Thư Hương",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17122
+  },
+  {
+    "id": "bs-van-boi-ngoc",
+    "name": "Bác sĩ Văn Bội Ngọc",
+    "title": " Bác sĩ Tai mũi họng",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19628
+  },
+  {
+    "id": "bs-nguyen-thi-thuy-an",
+    "name": "Bác sĩ Nguyễn Thị Thúy An",
+    "title": "Bác sĩ Tai mũi họng",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15871
+  },
+  {
+    "id": "bs-ang-thi-thuy-trang",
+    "name": "Bác sĩ Đặng Thị Thuỳ Trang",
+    "title": "Bác sĩ Tai mũi họng",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18426
+  },
+  {
+    "id": "bs-ma-nghi-hai",
+    "name": "Bác sĩ Mã Nghi Hải",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 16828
+  },
+  {
+    "id": "bs-nguyen-huu-dung",
+    "name": "Bác sĩ Nguyễn Hữu Dũng",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18757
+  },
+  {
+    "id": "bs-vo-thanh-an",
+    "name": "Bác sĩ Võ Thanh An",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15967
+  },
+  {
+    "id": "bs-huynh-vi-son",
+    "name": "Bác sĩ Huỳnh Vĩ Sơn",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 17883
+  },
+  {
+    "id": "bs-le-quangvinh",
+    "name": "Bác sĩ Lê QuangVinh",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15567
+  },
+  {
+    "id": "bs-nguyen-khac-son",
+    "name": "Bác sĩ Nguyễn Khắc Sơn",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19829
+  },
+  {
+    "id": "bs-vo-nguyen-thuy-uyen",
+    "name": "Bác sĩ Võ Nguyễn Thúy Uyên",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18795
+  },
+  {
+    "id": "bs-le-boi-ngoc",
+    "name": "Bác sĩ Lê Bội Ngọc",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19883
+  },
+  {
+    "id": "bs-tran-cam-thuy",
+    "name": "Chuyên gia Trần Cẩm Thùy",
+    "title": "Chuyên gia Tâm lý và Trưởng nhóm Đơn vị Chăm sóc Sức khỏe Tinh thần Tích hợp.",
+    "clinic_id": "central-park",
+    "speciality_id": "tam-ly",
+    "numeric_id": 15585
+  },
+  {
+    "id": "bs-hua-thi-my-trang",
+    "name": "Bác sĩ Hứa Thị Mỹ Trang",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "central-park",
+    "speciality_id": "tam-ly",
+    "numeric_id": 19311
+  },
+  {
+    "id": "bs-trung-tam-vaccine-1",
+    "name": "Bác sĩ Trung tâm vaccine 1",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 16821
+  },
+  {
+    "id": "bs-trung-tam-vaccine-2",
+    "name": "Bác sĩ Trung tâm vaccine 2",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 19720
+  },
+  {
+    "id": "bs-nong-ngoc-son",
+    "name": "Bác sĩ Nông Ngọc Sơn",
+    "title": "Giám đốc Trung tâm Ung bướu - Huyết học",
+    "clinic_id": "central-park",
+    "speciality_id": "trung-tam-benh-ly-tuyen-giap",
+    "numeric_id": 19762
+  },
+  {
+    "id": "bs-to-kim-sang",
+    "name": "Bác sĩ Tô Kim Sang",
+    "title": "Trưởng khoa Nội Ung bướu - Huyết học",
+    "clinic_id": "central-park",
+    "speciality_id": "trung-tam-benh-ly-tuyen-giap",
+    "numeric_id": 16660
+  },
+  {
+    "id": "bs-pham-thien-ha-minh-nguyet",
+    "name": "Bác sĩ Phạm Thiên Hà Minh Nguyệt",
+    "title": "Bác sĩ Ngoại Ung bướu",
+    "clinic_id": "central-park",
+    "speciality_id": "trung-tam-benh-ly-tuyen-giap",
+    "numeric_id": 3767
+  },
+  {
+    "id": "bs-oan-thai-cang",
+    "name": "Bác sĩ Đoàn Thái Cang",
+    "title": "Bác sĩ Xạ trị",
+    "clinic_id": "central-park",
+    "speciality_id": "trung-tam-benh-ly-tuyen-giap",
+    "numeric_id": 17695
+  },
+  {
+    "id": "bs-nguyen-truong-uc-hoang",
+    "name": "Bác sĩ Nguyễn Trương Đức Hoàng",
+    "title": "",
+    "clinic_id": "central-park",
+    "speciality_id": "trung-tam-benh-ly-tuyen-giap",
+    "numeric_id": 19845
+  },
+  {
+    "id": "bs-le-thi-thu-hang",
+    "name": "Bác sĩ Lê Thị Thu Hằng",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "hai-phong",
+    "speciality_id": "da-lieu",
+    "numeric_id": 14947
+  },
+  {
+    "id": "bs-bac-si-ksk-hai-phong",
+    "name": "Bác sĩ Bác Sĩ KSK Hải Phòng",
+    "title": "",
+    "clinic_id": "hai-phong",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 19649
+  },
+  {
+    "id": "bs-o-ang-duan",
+    "name": "Bác sĩ Đỗ Đăng Duân",
+    "title": "Bác sĩ Mắt",
+    "clinic_id": "hai-phong",
+    "speciality_id": "mat",
+    "numeric_id": 18391
+  },
+  {
+    "id": "bs-luu-hong-hai",
+    "name": "Bác sĩ Lưu Hồng Hải",
+    "title": "Trưởng khoa Ngoại Chấn thương chỉnh hình",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16353
+  },
+  {
+    "id": "bs-nguyen-huu-manh",
+    "name": "Bác sĩ Nguyễn Hữu Mạnh",
+    "title": "Giám đốc Bệnh viện Đa khoa Vinmec Hải Phòng",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 17536
+  },
+  {
+    "id": "bs-vu-uc-viet",
+    "name": "Bác sĩ Vũ Đức Việt",
+    "title": "Bác sĩ ngoại chấn thương chỉnh hình, chuyên khoa phẫu thuật chi trên",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19836
+  },
+  {
+    "id": "bs-phong-kham-chuyen-gia-than-kinh-cot-song",
+    "name": "Bác sĩ Phòng khám chuyên gia thần kinh cột sống",
+    "title": "",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 14554
+  },
+  {
+    "id": "bs-ang-xuan-tung",
+    "name": "Bác sĩ Đặng Xuân Tùng",
+    "title": "Bác sĩ Ngoại tiết niệu",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 15140
+  },
+  {
+    "id": "bs-thai-xuan-thuy",
+    "name": "Bác sĩ Thái Xuân Thủy",
+    "title": "",
+    "clinic_id": "hai-phong",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 15868
+  },
+  {
+    "id": "bs-nguyen-thi-thuy-hang",
+    "name": "Bác sĩ Nguyễn Thị Thúy Hằng",
+    "title": "",
+    "clinic_id": "hai-phong",
+    "speciality_id": "nhi",
+    "numeric_id": 16083
+  },
+  {
+    "id": "bs-phan-le-kim-chi",
+    "name": "Bác sĩ Phan Lệ Kim Chi",
+    "title": "Bác sĩ Nội – Cơ xương khớp",
+    "clinic_id": "hai-phong",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 19861
+  },
+  {
+    "id": "bs-hoang-ang-mich",
+    "name": "Bác sĩ Hoàng Đăng Mịch",
+    "title": "Bác sĩ Nội Khoa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 16823
+  },
+  {
+    "id": "bs-nguyen-huyen-nhung",
+    "name": "Bác sĩ Nguyễn Huyền Nhung",
+    "title": "Bác sĩ Nội Tiêu hóa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 19826
+  },
+  {
+    "id": "bs-nguyen-trung-thanh",
+    "name": "Bác sĩ Nguyễn Trung Thành",
+    "title": "Bác sĩ Nội Tiêu hóa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 19625
+  },
+  {
+    "id": "bs-ang-tien-at",
+    "name": "Bác sĩ Đặng Tiến Đạt",
+    "title": "Bác sĩ Răng - Hàm - Mặt",
+    "clinic_id": "hai-phong",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 17120
+  },
+  {
+    "id": "bs-bui-thi-thu",
+    "name": "Bác sĩ Bùi Thị Thu",
+    "title": "Trưởng khoa Sản phụ",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18830
+  },
+  {
+    "id": "bs-pham-thi-tuyet-mai",
+    "name": "Bác sĩ Phạm Thị Tuyết Mai",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19551
+  },
+  {
+    "id": "bs-pham-thi-yen",
+    "name": "Bác sĩ Phạm Thị Yến",
+    "title": "Bác sĩ chuyên khoa Sản",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16021
+  },
+  {
+    "id": "bs-nguyen-thi-hang",
+    "name": "Bác sĩ Nguyễn Thị Hằng",
+    "title": "Bác sỹ Sản Phụ Khoa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17880
+  },
+  {
+    "id": "bs-tran-thi-mai-huong",
+    "name": "Bác sĩ Trần Thị Mai Hương",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19650
+  },
+  {
+    "id": "bs-inh-thi-tuyet",
+    "name": "Bác sĩ Đinh Thị Tuyết",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "hai-phong",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15641
+  },
+  {
+    "id": "bs-nguyen-tuan-lam",
+    "name": "Bác sĩ Nguyễn Tuấn Lâm",
+    "title": "Bác sĩ Tai - Mũi - Họng",
+    "clinic_id": "hai-phong",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15957
+  },
+  {
+    "id": "bs-vu-viet-thanh",
+    "name": "Bác sĩ Vũ Việt Thanh",
+    "title": "Bác sĩ Tai Mũi Họng",
+    "clinic_id": "hai-phong",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 3642
+  },
+  {
+    "id": "bs-nguyen-thi-thao",
+    "name": "Bác sĩ Nguyễn Thị Thảo",
+    "title": "Bác sĩ Y học cổ truyền",
+    "clinic_id": "hai-phong",
+    "speciality_id": "y-hoc-co-truyen",
+    "numeric_id": 15103
+  },
+  {
+    "id": "bs-luu-thi-tam",
+    "name": "Bác sĩ Lưu Thị Tâm",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "da-lieu",
+    "numeric_id": 18778
+  },
+  {
+    "id": "bs-hoang-thi-tuyen",
+    "name": "Bác sĩ Hoàng Thị Tuyền",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "ho-hap",
+    "numeric_id": 15104
+  },
+  {
+    "id": "bs-bac-si-ksk-ha-long",
+    "name": "Bác sĩ Bác Sĩ KSK Hạ Long",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 18797
+  },
+  {
+    "id": "bs-nguyen-thi-kim-nhung",
+    "name": "Bác sĩ Nguyễn Thị Kim Nhung",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "mat",
+    "numeric_id": 20074
+  },
+  {
+    "id": "bs-bui-thi-phuong-nhung",
+    "name": "Bác sĩ Bùi Thị Phương Nhung",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "mat",
+    "numeric_id": 18392
+  },
+  {
+    "id": "bs-nguyen-duy-phong",
+    "name": "Bác sĩ Nguyễn Duy Phong",
+    "title": "Bác sĩ Ngoại Chấn thương Chỉnh hình",
+    "clinic_id": "ha-long",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 20073
+  },
+  {
+    "id": "bs-bsck-ii-nguyen-uc-hoa",
+    "name": "Bác sĩ BSCK II Nguyễn Đức Hòa",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18633
+  },
+  {
+    "id": "bs-tran-thanh-hung",
+    "name": "Bác sĩ Trần Thanh Hùng",
+    "title": "Bác sĩ Ngoại tiết niệu",
+    "clinic_id": "ha-long",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 14943
+  },
+  {
+    "id": "bs-bui-thi-ha",
+    "name": "Bác sĩ Bùi Thị Hà",
+    "title": "Bác sĩ Nhi - Sơ Sinh",
+    "clinic_id": "ha-long",
+    "speciality_id": "nhi",
+    "numeric_id": 19127
+  },
+  {
+    "id": "bs-pham-quoc-khanh",
+    "name": "Bác sĩ Phạm Quốc Khánh",
+    "title": "Trưởng đơn nguyên Phục hồi chức năng tại khoa Ngoại Tổng hợp",
+    "clinic_id": "ha-long",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 19445
+  },
+  {
+    "id": "bs-nguyen-cong-suat",
+    "name": "Bác sĩ Nguyễn Công Suất",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 18842
+  },
+  {
+    "id": "bs-tran-manh-linh",
+    "name": "Bác sĩ Trần Mạnh Linh",
+    "title": "Trưởng khoa Sản Phụ",
+    "clinic_id": "ha-long",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19839
+  },
+  {
+    "id": "bs-le-khac-hieu",
+    "name": "Bác sĩ Lê Khắc Hiệu",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "ha-long",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16014
+  },
+  {
+    "id": "bs-le-thi-phuong",
+    "name": "Bác sĩ Lê Thị Phương",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "ha-long",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19623
+  },
+  {
+    "id": "bs-nguyen-van-thanh",
+    "name": "Bác sĩ Nguyễn Văn Thành",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "ha-long",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19552
+  },
+  {
+    "id": "bs-nguyen-thu-huong",
+    "name": "Bác sĩ Nguyễn Thu Hương",
+    "title": "",
+    "clinic_id": "ha-long",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15123
+  },
+  {
+    "id": "bs-ang-tien-lam",
+    "name": "Bác sĩ Đặng Tiến Lâm",
+    "title": "Bác sĩ Tai - Mũi - Họng",
+    "clinic_id": "ha-long",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19848
+  },
+  {
+    "id": "bs-kham-suc-khoe-tong-quat-nguoi-lon",
+    "name": "Bác sĩ Khám sức khỏe tổng quát người lớn",
+    "title": "",
+    "clinic_id": "nha-trang",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 19884
+  },
+  {
+    "id": "bs-nguyen-cong-hoang",
+    "name": "Bác sĩ Nguyễn Công Hoàng",
+    "title": "Bác sĩ Ngoại Chấn thương chỉnh hình",
+    "clinic_id": "nha-trang",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19112
+  },
+  {
+    "id": "bs-hoang-xuan-hung",
+    "name": "Bác sĩ Hoàng Xuân Hùng",
+    "title": "Bác sĩ Ngoại Chấn thương chỉnh hình",
+    "clinic_id": "nha-trang",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15928
+  },
+  {
+    "id": "bs-truong-inh-khoi",
+    "name": "Bác sĩ Trương Đình Khôi",
+    "title": "Trưởng Khoa Tiêu hóa - Gan mật - Tiết niệu",
+    "clinic_id": "nha-trang",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 15013
+  },
+  {
+    "id": "bs-le-thanh-tuan",
+    "name": "Bác sĩ Lê Thanh Tuấn",
+    "title": "Bác sĩ Ngoại tiêu hóa",
+    "clinic_id": "nha-trang",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19444
+  },
+  {
+    "id": "bs-nguyen-thi-hoai-phuong",
+    "name": "Bác sĩ Nguyễn Thị Hoài Phương",
+    "title": "Bác sĩ Nhi – Sơ sinh",
+    "clinic_id": "nha-trang",
+    "speciality_id": "nhi",
+    "numeric_id": 17888
+  },
+  {
+    "id": "bs-huynh-duy-anh",
+    "name": "Bác sĩ Huỳnh Duy Anh",
+    "title": "Bác sĩ Nội Tiêu hoá - Nội soi",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 18679
+  },
+  {
+    "id": "bs-nguyen-ang-hoang",
+    "name": "Bác sĩ Nguyễn Đăng Hoàng",
+    "title": "",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 17852
+  },
+  {
+    "id": "bs-le-thanh-an",
+    "name": "Bác sĩ Lê Thanh An",
+    "title": "Trưởng đơn nguyên Can thiệp Tim Mạch",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15569
+  },
+  {
+    "id": "bs-nguyen-minh-son",
+    "name": "Bác sĩ Nguyễn Minh Sơn",
+    "title": "Bác sĩ Tim mạch can thiệp",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16039
+  },
+  {
+    "id": "bs-ngo-uc-tam",
+    "name": "Bác sĩ Ngô Đức Tám",
+    "title": "Bác sĩ Ngoại Tim mạch",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16484
+  },
+  {
+    "id": "bs-to-hung-thuy",
+    "name": "Bác sĩ Tô Hưng Thụy",
+    "title": "Chuyên gia Tim mạch",
+    "clinic_id": "nha-trang",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 16481
+  },
+  {
+    "id": "bs-nguyen-khanh-nam",
+    "name": "Bác sĩ Nguyễn Khánh Nam",
+    "title": "Bác sĩ Răng - Hàm - Mặt",
+    "clinic_id": "nha-trang",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 18304
+  },
+  {
+    "id": "bs-vo-van-uc",
+    "name": "Bác sĩ Võ Văn Đức",
+    "title": "Chuyên gia Sản phụ",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18723
+  },
+  {
+    "id": "bs-nguyen-van-tai",
+    "name": "Bác sĩ Nguyễn Văn Tài",
+    "title": "Bác sĩ Sản Phụ Khoa",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19492
+  },
+  {
+    "id": "bs-bui-uc-hoan",
+    "name": "Bác sĩ Bùi Đức Hoàn",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19622
+  },
+  {
+    "id": "bs-inh-thanh-ha",
+    "name": "Bác sĩ Đinh Thanh Hà",
+    "title": "Trưởng khoa Sản phụ",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 20028
+  },
+  {
+    "id": "bs-cao-xuan-thanh",
+    "name": "Bác sĩ Cao Xuân Thành",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15138
+  },
+  {
+    "id": "bs-le-thi-thuy-dung",
+    "name": "Bác sĩ Lê Thị Thùy Dung",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16045
+  },
+  {
+    "id": "bs-nguyen-thi-van",
+    "name": "Bác sĩ Nguyễn Thị Vân",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "nha-trang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16827
+  },
+  {
+    "id": "bs-nguyen-huu-uc",
+    "name": "Bác sĩ Nguyễn Hữu Đức",
+    "title": "Bác sĩ Tai Mũi Họng",
+    "clinic_id": "nha-trang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19528
+  },
+  {
+    "id": "bs-tran-minh-tuan",
+    "name": "Bác sĩ Trần Minh Tuấn",
+    "title": "Bác sĩ Tai mũi họng\nBác sĩ Nội trú, Bác sĩ chuyên khoa I",
+    "clinic_id": "nha-trang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15565
+  },
+  {
+    "id": "bs-tran-van-sang",
+    "name": "Bác sĩ Trần Văn Sáng",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "da-nang",
+    "speciality_id": "da-lieu",
+    "numeric_id": 20017
+  },
+  {
+    "id": "bs-tran-le-huong-nguyen",
+    "name": "Bác sĩ Trần Lê Hương Nguyên",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "da-lieu",
+    "numeric_id": 19626
+  },
+  {
+    "id": "bs-nguyen-van-huan",
+    "name": "Bác sĩ Nguyễn Văn Huân",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "da-lieu",
+    "numeric_id": 17179
+  },
+  {
+    "id": "bs-kham-suc-khoe-tong-quat-nguoi-lon",
+    "name": "Bác sĩ Khám sức khỏe tổng quát người lớn",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 19309
+  },
+  {
+    "id": "bs-nguyen-thai-hung",
+    "name": "Bác sĩ Nguyễn Thái Hưng",
+    "title": "Bác sĩ Mắt",
+    "clinic_id": "da-nang",
+    "speciality_id": "mat",
+    "numeric_id": 15196
+  },
+  {
+    "id": "bs-le-quang-minh",
+    "name": "Bác sĩ Lê Quang Minh",
+    "title": "Trưởng Khoa Ngoại Tổng Hợp",
+    "clinic_id": "da-nang",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15573
+  },
+  {
+    "id": "bs-le-tuan-vu",
+    "name": "Bác sĩ Lê Tuấn Vũ",
+    "title": "Bác sĩ Ngoại Chấn thương chỉnh hình",
+    "clinic_id": "da-nang",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15568
+  },
+  {
+    "id": "bs-nguyen-xuan-ai",
+    "name": "Bác sĩ Nguyễn Xuân Đại",
+    "title": "Bác sĩ Ngoại Chấn thương Chỉnh hình",
+    "clinic_id": "da-nang",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18476
+  },
+  {
+    "id": "bs-vo-thien-ngon",
+    "name": "Bác sĩ Võ Thiện Ngôn",
+    "title": "Bác sĩ Ngoại tiết niệu",
+    "clinic_id": "da-nang",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19283
+  },
+  {
+    "id": "bs-o-van-hieu",
+    "name": "Bác sĩ Đỗ Văn Hiếu",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 19493
+  },
+  {
+    "id": "bs-le-duong-tien",
+    "name": "Bác sĩ Lê Dương Tiến",
+    "title": "Bác sĩ Nội cơ xương khớp",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 19621
+  },
+  {
+    "id": "bs-nguyen-tan-sang",
+    "name": "Bác sĩ Nguyễn Tấn Sang",
+    "title": "Bác sĩ Y học cổ truyền",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 18169
+  },
+  {
+    "id": "bs-ho-thi-hoang-an",
+    "name": "Bác sĩ Hồ Thị Hoàng Ân",
+    "title": "Bác sĩ Nội Cơ xương khớp",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 19529
+  },
+  {
+    "id": "bs-ton-that-tri-dung",
+    "name": "Bác sĩ Tôn Thất Trí Dũng",
+    "title": "Giám đốc Trung tâm Thần kinh - Đột quỵ - Tin mạch",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15904
+  },
+  {
+    "id": "bs-vo-ang-nhat",
+    "name": "Bác sĩ Võ Đăng Nhật",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 18796
+  },
+  {
+    "id": "bs-bui-ngoc-phuong-hoa",
+    "name": "Bác sĩ Bùi Ngọc Phương Hòa",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15583
+  },
+  {
+    "id": "bs-tran-nguyen-tuan-minh",
+    "name": "Bác sĩ Trần Nguyễn Tuấn Minh",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 15579
+  },
+  {
+    "id": "bs-vo-thi-thuy-trang",
+    "name": "Bác sĩ Võ Thị Thuỳ Trang",
+    "title": "Bác sĩ Nội soi tiêu hóa",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 15067
+  },
+  {
+    "id": "bs-le-thi-bao-ngoc",
+    "name": "Bác sĩ Lê Thị Bảo Ngọc",
+    "title": "Bác sĩ Nội soi tiêu hóa",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 18864
+  },
+  {
+    "id": "bs-pham-van-hung",
+    "name": "Bác sĩ Phạm Văn Hùng",
+    "title": "Giám đốc Trung tâm Khám bệnh",
+    "clinic_id": "da-nang",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15111
+  },
+  {
+    "id": "bs-le-ho-viet-an",
+    "name": "Bác sĩ Lê Hồ Việt An",
+    "title": "Bác sĩ Răng Hàm Mặt",
+    "clinic_id": "da-nang",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 15031
+  },
+  {
+    "id": "bs-le-ba-gia-hung",
+    "name": "Bác sĩ Lê Bá Gia Hưng",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 16042
+  },
+  {
+    "id": "bs-ta-quoc-ban",
+    "name": "Bác sĩ Tạ Quốc Bản",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16617
+  },
+  {
+    "id": "bs-doan-thanh-tuan",
+    "name": "Bác sĩ Doãn Thanh Tuấn",
+    "title": "Giám đốc Trung tâm Sản và Hỗ trợ sinh sản kiêm Trưởng khoan Sản phụ",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17290
+  },
+  {
+    "id": "bs-nguyen-thi-man",
+    "name": "Bác sĩ Nguyễn Thị Mận",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19325
+  },
+  {
+    "id": "bs-truong-nghia-binh",
+    "name": "Bác sĩ Trương Nghĩa Bình",
+    "title": "Bác sĩ chuyên khoa Sản",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 3766
+  },
+  {
+    "id": "bs-pham-thi-mai-nhung",
+    "name": "Bác sĩ Phạm Thị Mai Nhung",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18896
+  },
+  {
+    "id": "bs-ly-thi-thanh-nha",
+    "name": "Bác sĩ Lý Thị Thanh Nhã",
+    "title": "Bác sĩ Sản Phụ Khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16795
+  },
+  {
+    "id": "bs-nguyen-thi-le",
+    "name": "Bác sĩ Nguyễn Thị Lệ",
+    "title": "Bác sĩ Sản Phụ khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 3641
+  },
+  {
+    "id": "bs-huynh-cong-tan",
+    "name": "Bác sĩ Huỳnh Công Tấn",
+    "title": "Bác sĩ sản phụ khoa",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15895
+  },
+  {
+    "id": "bs-le-thi-dieu-hang",
+    "name": "Bác sĩ Lê Thị Diệu Hằng",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17630
+  },
+  {
+    "id": "bs-nguyen-van-thai",
+    "name": "Bác sĩ Nguyễn Văn Thái",
+    "title": "Bác sĩ Tai - Mũi - Họng",
+    "clinic_id": "da-nang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19440
+  },
+  {
+    "id": "bs-nguyen-thanh-ha",
+    "name": "Bác sĩ Nguyễn Thanh Hà",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19947
+  },
+  {
+    "id": "bs-nguyen-thi-truc-ha",
+    "name": "Bác sĩ Nguyễn Thị Trúc Hà",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19704
+  },
+  {
+    "id": "bs-nguyen-thi-trung",
+    "name": "Bác sĩ Nguyễn Thị Trung",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 16536
+  },
+  {
+    "id": "bs-truong-inh-hien",
+    "name": "Bác sĩ Trương Đình Hiển",
+    "title": "",
+    "clinic_id": "da-nang",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15136
+  },
+  {
+    "id": "bs-hoang-thi-thom",
+    "name": "Bác sĩ Hoàng Thị Thơm",
+    "title": "",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "da-lieu",
+    "numeric_id": 3644
+  },
+  {
+    "id": "bs-duong-quang-vinh",
+    "name": "Bác sĩ Dương Quang Vinh",
+    "title": "Bác sĩ Chấn thương chỉnh hình",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19707
+  },
+  {
+    "id": "bs-phan-phi-tuan",
+    "name": "Bác sĩ Phan Phi Tuấn",
+    "title": "Trưởng khoa Ngoại tổng hợp",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19849
+  },
+  {
+    "id": "bs-vuong-ngoc-linh",
+    "name": "Bác sĩ Vương Ngọc Linh",
+    "title": "Trưởng khoa Sản phụ khoa",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16096
+  },
+  {
+    "id": "bs-neang-chanh-ly",
+    "name": "Bác sĩ Néang Chanh Ly",
+    "title": "Bác sĩ Sản phụ khoa",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19284
+  },
+  {
+    "id": "bs-au-thi-tuyet-nhung",
+    "name": "Bác sĩ Đầu Thị Tuyết Nhung",
+    "title": "",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 18749
+  },
+  {
+    "id": "bs-truong-an-viet",
+    "name": "Bác sĩ Trương An Việt",
+    "title": "",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17641
+  },
+  {
+    "id": "bs-bui-thanh-xuan",
+    "name": "Bác sĩ Bùi Thanh Xuân",
+    "title": "",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17696
+  },
+  {
+    "id": "bs-nguyen-thi-chi-mai",
+    "name": "Bác sĩ Nguyễn Thị Chi Mai",
+    "title": "",
+    "clinic_id": "phu-quoc",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15054
+  },
+  {
+    "id": "bs-nguyen-thi-hoai",
+    "name": "Bác sĩ Nguyễn Thị Hoài",
+    "title": "Bác sĩ Da liễu",
+    "clinic_id": "smart-city",
+    "speciality_id": "da-lieu",
+    "numeric_id": 15876
+  },
+  {
+    "id": "bs-nguyen-duy-nghia",
+    "name": "Bác sĩ Nguyễn Duy Nghĩa",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "ho-hap",
+    "numeric_id": 15650
+  },
+  {
+    "id": "bs-ksk-vmsc",
+    "name": "Bác sĩ KSK VMSC",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "numeric_id": 19948
+  },
+  {
+    "id": "bs-vu-manh-hung",
+    "name": "Bác sĩ Vũ Mạnh Hùng",
+    "title": "Bác sĩ Cấp cứu",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 16087
+  },
+  {
+    "id": "bs-nguyen-thanh-binh",
+    "name": "Bác sĩ Nguyễn Thanh Bình",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 20057
+  },
+  {
+    "id": "bs-nguyen-thi-thuy",
+    "name": "Bác sĩ Nguyễn Thị Thùy",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 16231
+  },
+  {
+    "id": "bs-le-ngoc-huyen",
+    "name": "Bác sĩ Lê Ngọc Huyền",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 15814
+  },
+  {
+    "id": "bs-tran-thi-le",
+    "name": "Bác sĩ Trần Thị Lệ",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 18532
+  },
+  {
+    "id": "bs-phan-thi-van-anh",
+    "name": "Bác sĩ Phan Thị Vân Anh",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 17871
+  },
+  {
+    "id": "bs-tran-tien-at",
+    "name": "Bác sĩ Trần Tiến Đạt",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "mat",
+    "numeric_id": 19031
+  },
+  {
+    "id": "bs-vu-tu-nam",
+    "name": "Bác sĩ Vũ Tú Nam",
+    "title": "Trưởng khoa CTCH & YHTT kiêm Trưởng CK CTCH",
+    "clinic_id": "smart-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15995
+  },
+  {
+    "id": "bs-oan-manh-hung",
+    "name": "Bác sĩ Đoàn Mạnh Hùng",
+    "title": "Bác sĩ Ngoại chấn thương chỉnh hình",
+    "clinic_id": "smart-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16685
+  },
+  {
+    "id": "bs-ta-tuan-anh",
+    "name": "Bác sĩ Tạ Tuấn Anh",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 19501
+  },
+  {
+    "id": "bs-ta-van-thanh-nam",
+    "name": "Bác sĩ Tạ Văn Thành Nam",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 15993
+  },
+  {
+    "id": "bs-le-van-trong",
+    "name": "Bác sĩ Lê Văn Trọng",
+    "title": "Bác sĩ Ngoại tiết niệu Nam học",
+    "clinic_id": "smart-city",
+    "speciality_id": "ngoai-than-tiet-nieu",
+    "numeric_id": 17876
+  },
+  {
+    "id": "bs-chu-thanh-son",
+    "name": "Bác sĩ Chu Thanh Sơn",
+    "title": "Trưởng khoa Nhi - Sơ sinh - Vaccine",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16796
+  },
+  {
+    "id": "bs-trieu-thi-hong-thai",
+    "name": "Bác sĩ Triệu Thị Hồng Thái",
+    "title": "Bác sĩ Nhi sơ sinh - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16006
+  },
+  {
+    "id": "bs-o-thi-thao",
+    "name": "Bác sĩ Đỗ Thị Thảo",
+    "title": "Bác sĩ Nhi sơ sinh - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19443
+  },
+  {
+    "id": "bs-nguyen-thi-ha",
+    "name": "Bác sĩ Nguyễn Thị Hà",
+    "title": "Bác sĩ Nhi sơ sinh - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16278
+  },
+  {
+    "id": "bs-pham-ngoc-thao",
+    "name": "Bác sĩ Phạm Ngọc Thảo",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 17639
+  },
+  {
+    "id": "bs-duong-van-long",
+    "name": "Bác sĩ Dương Văn Long",
+    "title": "Bác sĩ Nhi sơ sinh - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 18677
+  },
+  {
+    "id": "bs-tran-thi-van-hai",
+    "name": "Bác sĩ Trần Thị Vân Hải",
+    "title": "Bác sĩ Nhi sơ sinh - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15898
+  },
+  {
+    "id": "bs-chuyen-noi-tiet-chuyen-hoa-o-tien-son",
+    "name": "Bác sĩ Chuyên Nội tiết - Chuyển hóa Đỗ Tiến Sơn",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 20072
+  },
+  {
+    "id": "bs-nguyen-van-son",
+    "name": "Bác sĩ Nguyễn Văn Sơn",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 19300
+  },
+  {
+    "id": "bs-chuyen-noi-tiet-chuyen-hoa-duong-thi-hong-van",
+    "name": "Bác sĩ Chuyên Nội tiết - Chuyển hóa Dương Thị Hồng Vân",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15917
+  },
+  {
+    "id": "bs-bac-si-nhi-vmsc-1",
+    "name": "Bác sĩ Bác sĩ Nhi VMSC 1",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15071
+  },
+  {
+    "id": "bs-bac-si-nhi-vmsc-2",
+    "name": "Bác sĩ Bác sĩ Nhi VMSC 2",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 16275
+  },
+  {
+    "id": "bs-cao-thi-thu-que",
+    "name": "Bác sĩ Cao Thị Thu Quế",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "nhi",
+    "numeric_id": 15990
+  },
+  {
+    "id": "bs-nguyen-thi-thanh-hoa",
+    "name": "Bác sĩ Nguyễn Thị Thanh Hoa",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 17281
+  },
+  {
+    "id": "bs-vu-duy-dung",
+    "name": "Bác sĩ Vũ Duy Dũng",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 17603
+  },
+  {
+    "id": "bs-bui-minh-uc",
+    "name": "Bác sĩ Bùi Minh Đức",
+    "title": "Bác sĩ Nội tiết",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15896
+  },
+  {
+    "id": "bs-nguyen-quynh-hoa",
+    "name": "Bác sĩ Nguyễn Quỳnh Hoa",
+    "title": "Bác sĩ Nội và Chẩn đoán hình ảnh – Thăm dò chức năng Tim Mạch kiêm Giám đốc chương trình quản lý bệnh suy tim",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 17417
+  },
+  {
+    "id": "bs-nguyen-van-phong",
+    "name": "Bác sĩ Nguyễn Văn Phong",
+    "title": "Bác sĩ Nội Tim mạch",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 18478
+  },
+  {
+    "id": "bs-nguyen-phan-hien",
+    "name": "Bác sĩ Nguyễn Phan Hiền",
+    "title": "Bác sĩ Nội tim mạch",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 19903
+  },
+  {
+    "id": "bs-le-uc-hiep",
+    "name": "Bác sĩ Lê Đức Hiệp",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 19863
+  },
+  {
+    "id": "bs-khong-nam-huong",
+    "name": "Bác sĩ Khổng Nam Hương",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 15128
+  },
+  {
+    "id": "bs-on-thu-huong",
+    "name": "Bác sĩ Đôn Thu Hương",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 16486
+  },
+  {
+    "id": "bs-nguyen-son-hai",
+    "name": "Bác sĩ Nguyễn Sơn Hải",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 16023
+  },
+  {
+    "id": "bs-tran-huy-bao",
+    "name": "Bác sĩ Trần Huy Bảo",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 14954
+  },
+  {
+    "id": "bs-nguyen-ha-my",
+    "name": "Bác sĩ Nguyễn Hà My",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 15068
+  },
+  {
+    "id": "bs-pham-nguyen-huong-ly",
+    "name": "Bác sĩ Phạm Nguyên Hương Ly",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 15953
+  },
+  {
+    "id": "bs-nguyen-thi-khanh-huyen",
+    "name": "Bác sĩ Nguyễn Thị Khánh Huyền",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 19556
+  },
+  {
+    "id": "bs-oan-thi-thuy-linh",
+    "name": "Bác sĩ Đoàn Thị Thùy Linh",
+    "title": "Bác sĩ Răng hàm mặt",
+    "clinic_id": "smart-city",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 17289
+  },
+  {
+    "id": "bs-bach-thi-ha-thu",
+    "name": "Bác sĩ Bạch Thị Hà Thư",
+    "title": "Bác sĩ khoa Phụ Sản",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 16526
+  },
+  {
+    "id": "bs-thai-bang",
+    "name": "Bác sĩ Thái Bằng",
+    "title": "Trưởng Khoa Sản phụ khoa",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19407
+  },
+  {
+    "id": "bs-nguyen-duy-quang",
+    "name": "Bác sĩ Nguyễn Duy Quang",
+    "title": "Bác sĩ khoa Phụ Sản",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15095
+  },
+  {
+    "id": "bs-nguyen-xuan-thanh",
+    "name": "Bác sĩ Nguyễn Xuân Thành",
+    "title": "Bác sĩ Sản phụ khoa - Bệnh viện Đa khoa Quốc tế Vinmec Smart City.",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 17637
+  },
+  {
+    "id": "bs-mai-thi-anh",
+    "name": "Bác sĩ Mai Thị Anh",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15578
+  },
+  {
+    "id": "bs-tran-thu-hang",
+    "name": "Bác sĩ Trần Thu Hằng",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19307
+  },
+  {
+    "id": "bs-le-inh-hung",
+    "name": "Bác sĩ Lê Đình Hưng",
+    "title": "Trưởng khoa Tai Mũi Họng",
+    "clinic_id": "smart-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 18616
+  },
+  {
+    "id": "bs-nguyen-le-hoa",
+    "name": "Bác sĩ Nguyễn Lê Hoa",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 14952
+  },
+  {
+    "id": "bs-nguyen-trong-dung",
+    "name": "Bác sĩ Nguyễn Trọng Dũng",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 16229
+  },
+  {
+    "id": "bs-nguyen-thi-kim-mai",
+    "name": "Bác sĩ Nguyễn Thị Kim Mai",
+    "title": "Bác sĩ Nhi",
+    "clinic_id": "smart-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 19816
+  },
+  {
+    "id": "bs-bui-thi-hau",
+    "name": "Bác sĩ Bùi Thị Hậu",
+    "title": "Chuyên gia tâm lý",
+    "clinic_id": "smart-city",
+    "speciality_id": "tam-ly",
+    "numeric_id": 17045
+  },
+  {
+    "id": "bs-trung-tam-vaccine-vmsc",
+    "name": "Bác sĩ Trung tâm Vaccine VMSC",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "tiem-chung-vac-xin",
+    "numeric_id": 17286
+  },
+  {
+    "id": "bs-tran-thi-ai-trang",
+    "name": "Bác sĩ Trần Thị Đài Trang",
+    "title": "Bác sĩ Y học Cổ truyền",
+    "clinic_id": "smart-city",
+    "speciality_id": "y-hoc-co-truyen",
+    "numeric_id": 15879
+  },
+  {
+    "id": "bs-nguyen-thi-nga",
+    "name": "Bác sĩ Nguyễn Thị Nga",
+    "title": "Bác sĩ Y học Cổ truyền",
+    "clinic_id": "smart-city",
+    "speciality_id": "y-hoc-co-truyen",
+    "numeric_id": 19909
+  },
+  {
+    "id": "bs-bui-tien-hung",
+    "name": "Bác sĩ Bùi Tiến Hưng",
+    "title": "",
+    "clinic_id": "smart-city",
+    "speciality_id": "y-hoc-co-truyen",
+    "numeric_id": 17021
+  },
+  {
+    "id": "bs-vu-van-nam",
+    "name": "Bác sĩ Vũ Văn Nam",
+    "title": "Bác sĩ Y học cổ truyền",
+    "clinic_id": "smart-city",
+    "speciality_id": "y-hoc-co-truyen",
+    "numeric_id": 20025
+  },
+  {
+    "id": "bs-tran-thao-nguyen",
+    "name": "Bác sĩ Trần Thảo Nguyên",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "da-lieu",
+    "numeric_id": 15889
+  },
+  {
+    "id": "bs-le-van-hai",
+    "name": "Bác sĩ Lê Văn Hái",
+    "title": "Bác sĩ Ngoại Chấn thương Chỉnh hình",
+    "clinic_id": "can-tho",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 18468
+  },
+  {
+    "id": "bs-uong-anh-tu",
+    "name": "Bác sĩ Uông Anh Tú",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "ngoai-chan-thuong-chinh-hinh",
+    "numeric_id": 16010
+  },
+  {
+    "id": "bs-duong-thanh-long",
+    "name": "Bác sĩ Dương Thanh Long",
+    "title": "BS Nhi Sơ sinh",
+    "clinic_id": "can-tho",
+    "speciality_id": "nhi",
+    "numeric_id": 15968
+  },
+  {
+    "id": "bs-hoang-thi-hong-ly",
+    "name": "Bác sĩ Hoàng Thị Hồng Ly",
+    "title": "Bác sĩ Nhi - Sơ sinh",
+    "clinic_id": "can-tho",
+    "speciality_id": "nhi",
+    "numeric_id": 19448
+  },
+  {
+    "id": "bs-pham-qui-phuc",
+    "name": "Bác sĩ Phạm Quí Phúc",
+    "title": "Bác sĩ Nhi - Sơ sinh",
+    "clinic_id": "can-tho",
+    "speciality_id": "nhi",
+    "numeric_id": 3910
+  },
+  {
+    "id": "bs-o-tuan-vu",
+    "name": "Bác sĩ Đỗ Tuấn Vũ",
+    "title": "Bác sĩ điều trị khoa Nhi",
+    "clinic_id": "can-tho",
+    "speciality_id": "nhi",
+    "numeric_id": 19763
+  },
+  {
+    "id": "bs-lam-xuan-thuc-quyen",
+    "name": "Bác sĩ Lâm Xuân Thục Quyên",
+    "title": "Bác sĩ Nhi Sơ sinh",
+    "clinic_id": "can-tho",
+    "speciality_id": "nhi",
+    "numeric_id": 19097
+  },
+  {
+    "id": "bs-nguyen-tuan-anh",
+    "name": "Bác sĩ Nguyễn Tuấn Anh",
+    "title": "Bác sĩ chuyên khoa Nội Cơ Xương Khớp",
+    "clinic_id": "can-tho",
+    "speciality_id": "noi-co-xuong-khop",
+    "numeric_id": 16033
+  },
+  {
+    "id": "bs-nguyen-thi-thanh-tuyen",
+    "name": "Bác sĩ Nguyễn Thị Thanh Tuyền",
+    "title": "Bác sĩ Nội thần kinh",
+    "clinic_id": "can-tho",
+    "speciality_id": "noi-than-kinh",
+    "numeric_id": 16004
+  },
+  {
+    "id": "bs-o-nhu-thuy",
+    "name": "Bác sĩ Đỗ Như Thủy",
+    "title": "Bác sỹ Nội tiết.",
+    "clinic_id": "can-tho",
+    "speciality_id": "noi-tiet",
+    "numeric_id": 15120
+  },
+  {
+    "id": "bs-trinh-ong-khoi",
+    "name": "Bác sĩ Trịnh Đồng Khởi",
+    "title": "Bác sĩ Nội soi tiêu hoá",
+    "clinic_id": "can-tho",
+    "speciality_id": "noi-tieu-hoa",
+    "numeric_id": 14571
+  },
+  {
+    "id": "bs-nguyen-thi-huyen",
+    "name": "Bác sĩ Nguyễn Thị Huyền",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "noi-tim-mach",
+    "numeric_id": 14578
+  },
+  {
+    "id": "bs-phong-kham-rmh-1",
+    "name": "Bác sĩ Phòng khám RMH 1",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 18135
+  },
+  {
+    "id": "bs-phong-kham-rmh-2",
+    "name": "Bác sĩ Phòng khám RMH 2",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "rang-ham-mat",
+    "numeric_id": 19634
+  },
+  {
+    "id": "bs-tran-ngoc-thanh",
+    "name": "Bác sĩ Trần Ngọc Thanh",
+    "title": "Bác sĩ Sản phụ",
+    "clinic_id": "can-tho",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15114
+  },
+  {
+    "id": "bs-uong-thi-kim-ngoc",
+    "name": "Bác sĩ Uông Thị Kim Ngọc",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 19332
+  },
+  {
+    "id": "bs-le-nguyen-trong-nhan",
+    "name": "Bác sĩ Lê Nguyễn Trọng Nhân",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "san-phu-khoa",
+    "numeric_id": 15130
+  },
+  {
+    "id": "bs-phong-kham-tmh-1",
+    "name": "Bác sĩ Phòng khám TMH 1",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 15656
+  },
+  {
+    "id": "bs-phong-kham-tmh-2",
+    "name": "Bác sĩ Phòng khám TMH 2",
+    "title": "",
+    "clinic_id": "can-tho",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 16013
+  },
+  {
+    "id": "bs-phong-kham-nhi-grand-park",
+    "name": "Bác sĩ Phòng khám Nhi Grand Park",
+    "title": "",
+    "clinic_id": "grand-park",
+    "speciality_id": "nhi",
+    "numeric_id": 15147
+  },
+  {
+    "id": "bs-phong-kham-tmh-grand-park",
+    "name": "Bác sĩ Phòng khám TMH Grand Park",
+    "title": "",
+    "clinic_id": "grand-park",
+    "speciality_id": "tai-mui-hong",
+    "numeric_id": 19908
+  }
+]

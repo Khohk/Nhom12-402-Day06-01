@@ -1,0 +1,358 @@
+[
+  {
+    "id": "trung-tam-benh-ly-tuyen-giap",
+    "name": "Bệnh lý Tuyến Giáp",
+    "keywords": [
+      "bướu cổ",
+      "cổ sưng",
+      "nuốt khó",
+      "khàn giọng",
+      "hồi hộp do tuyến giáp",
+      "sụt cân không rõ nguyên nhân",
+      "tuyến giáp",
+      "cường giáp",
+      "suy giáp"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "ngoai-chan-thuong-chinh-hinh",
+    "name": "Chấn thương chỉnh hình - Y học thể thao",
+    "keywords": [
+      "gãy xương",
+      "bong gân",
+      "trật khớp",
+      "chấn thương thể thao",
+      "đau khớp gối",
+      "đau vai",
+      "đau cổ tay",
+      "phẫu thuật xương khớp"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "noi-co-xuong-khop",
+    "name": "Cơ xương khớp",
+    "keywords": [
+      "đau lưng",
+      "đau cột sống",
+      "đau khớp",
+      "viêm khớp",
+      "thoái hóa khớp",
+      "đau cổ",
+      "đau vai gáy",
+      "thoát vị đĩa đệm",
+      "đau xương",
+      "loãng xương"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "da-lieu",
+    "name": "Da liễu",
+    "keywords": [
+      "mụn",
+      "nổi mẩn",
+      "ngứa da",
+      "viêm da",
+      "chàm",
+      "vảy nến",
+      "rụng tóc",
+      "nấm da",
+      "bệnh da liễu",
+      "tổn thương da",
+      "nám",
+      "tàn nhang"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "ho-hap",
+    "name": "Hô hấp",
+    "keywords": [
+      "ho",
+      "ho kéo dài",
+      "khó thở",
+      "thở khò khè",
+      "viêm phổi",
+      "hen phế quản",
+      "viêm phế quản",
+      "đờm",
+      "tức ngực"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "hen-di-ung-mien-dich",
+    "name": "Miễn dịch - Dị ứng",
+    "keywords": [
+      "dị ứng",
+      "nổi mề đay",
+      "ngứa",
+      "phát ban",
+      "hắt hơi liên tục",
+      "chảy nước mũi",
+      "viêm mũi dị ứng",
+      "hen suyễn",
+      "khó thở do dị ứng"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "rang-ham-mat",
+    "name": "Nha khoa",
+    "keywords": [
+      "đau răng",
+      "sâu răng",
+      "chảy máu nướu",
+      "hôi miệng",
+      "nhổ răng",
+      "răng khôn",
+      "viêm nướu",
+      "đau hàm"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "noi-tim-mach",
+    "name": "Nội Tim mạch",
+    "keywords": [
+      "đau ngực",
+      "hồi hộp",
+      "tim đập nhanh",
+      "tim đập chậm",
+      "khó thở khi gắng sức",
+      "tăng huyết áp",
+      "huyết áp cao",
+      "phù chân",
+      "mệt mỏi khi leo cầu thang",
+      "đau thắt ngực"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "noi-tiet",
+    "name": "Nội tiết",
+    "keywords": [
+      "tiểu đường",
+      "đái tháo đường",
+      "mỡ máu",
+      "béo phì",
+      "rối loạn nội tiết",
+      "suy giáp",
+      "cường giáp",
+      "hormone",
+      "cholesterol cao"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "name": "Sức khoẻ tổng quát",
+    "keywords": [
+      "khám tổng quát",
+      "kiểm tra sức khỏe định kỳ",
+      "xét nghiệm máu tổng quát",
+      "không biết khám gì",
+      "khám sức khỏe"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "tai-mui-hong",
+    "name": "Tai - Mũi - Họng",
+    "keywords": [
+      "đau họng",
+      "viêm họng",
+      "viêm amidan",
+      "ù tai",
+      "nghe kém",
+      "chảy máu cam",
+      "nghẹt mũi",
+      "viêm xoang",
+      "khàn tiếng",
+      "đau tai",
+      "polyp mũi"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "noi-than-kinh",
+    "name": "Thần kinh",
+    "keywords": [
+      "đau đầu",
+      "chóng mặt",
+      "tê tay",
+      "tê chân",
+      "tê mặt",
+      "mất ngủ",
+      "run tay",
+      "yếu tay chân",
+      "liệt",
+      "đau nửa đầu",
+      "migraine",
+      "đột quỵ",
+      "tai biến",
+      "động kinh",
+      "co giật",
+      "tê bì"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "ngoai-than-tiet-nieu",
+    "name": "Thận - Tiết niệu",
+    "keywords": [
+      "tiểu buốt",
+      "tiểu rắt",
+      "tiểu máu",
+      "đau lưng dưới",
+      "sỏi thận",
+      "nhiễm trùng đường tiểu",
+      "tiểu đêm nhiều",
+      "phù",
+      "suy thận"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "noi-tieu-hoa",
+    "name": "Tiêu hoá - Gan mật",
+    "keywords": [
+      "đau bụng",
+      "đau dạ dày",
+      "buồn nôn",
+      "nôn",
+      "tiêu chảy",
+      "táo bón",
+      "ợ chua",
+      "trào ngược",
+      "đầy bụng",
+      "chướng bụng",
+      "phân có máu",
+      "vàng da",
+      "đau hạ sườn phải",
+      "gan",
+      "mật"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "mat",
+    "name": "Trung tâm Mắt",
+    "keywords": [
+      "mờ mắt",
+      "đau mắt",
+      "đỏ mắt",
+      "chảy nước mắt",
+      "nhìn đôi",
+      "nhức mắt",
+      "thị lực giảm",
+      "cận thị",
+      "loạn thị",
+      "đục thủy tinh thể"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "nhi",
+    "name": "Trung tâm Nhi",
+    "keywords": [
+      "trẻ em",
+      "trẻ nhỏ",
+      "sốt trẻ em",
+      "ho trẻ em",
+      "tiêu chảy trẻ em",
+      "chậm lớn",
+      "suy dinh dưỡng trẻ",
+      "dưới 18 tuổi"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "san-phu-khoa",
+    "name": "Trung tâm Sức khoẻ phụ nữ",
+    "keywords": [
+      "rối loạn kinh nguyệt",
+      "đau bụng kinh",
+      "khí hư",
+      "u xơ tử cung",
+      "buồng trứng",
+      "có thai",
+      "mang thai",
+      "tiền mãn kinh",
+      "mãn kinh",
+      "HPV",
+      "ung thư cổ tử cung",
+      "đau vùng kín"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "trung-tam-ung-buou",
+    "name": "Trung tâm Ung bướu",
+    "keywords": [
+      "u",
+      "khối u",
+      "ung thư",
+      "sụt cân không rõ nguyên nhân",
+      "hạch nổi",
+      "xuất huyết bất thường"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "trung-tam-benh-ly-tuyen-vu",
+    "name": "Trung tâm Vú",
+    "keywords": [
+      "đau vú",
+      "u vú",
+      "tiết dịch núm vú",
+      "cục ở ngực",
+      "ung thư vú",
+      "khám vú"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "tiem-chung-vac-xin",
+    "name": "Trung tâm Vắc xin",
+    "keywords": [
+      "tiêm phòng",
+      "vắc xin",
+      "tiêm chủng",
+      "vaccine"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "tam-ly",
+    "name": "Trung tâm chăm sóc sức khỏe tinh thần",
+    "keywords": [
+      "lo âu",
+      "trầm cảm",
+      "stress",
+      "căng thẳng",
+      "mất ngủ mãn tính",
+      "ám ảnh",
+      "hoảng loạn",
+      "rối loạn lo âu",
+      "tâm lý",
+      "OCD",
+      "sang chấn tâm lý"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "y-hoc-co-truyen",
+    "name": "Y học cổ truyền",
+    "keywords": [
+      "châm cứu",
+      "vật lý trị liệu",
+      "y học cổ truyền",
+      "đau mãn tính",
+      "phục hồi chức năng"
+    ],
+    "is_common": true
+  }
+]

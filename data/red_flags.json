@@ -1,0 +1,207 @@
+[
+  {
+    "id": "tia",
+    "patterns": [
+      "tê tay thoáng qua rồi hết",
+      "tê mặt một lúc rồi hết",
+      "nói lắp một lúc rồi bình thường",
+      "méo miệng thoáng qua",
+      "yếu tay chân rồi hết",
+      "nhìn mờ một mắt rồi hết"
+    ],
+    "warning": "Triệu chứng có thể là đột quỵ thoáng qua (TIA) — dù đã hết, nguy cơ đột quỵ thật trong 48h rất cao. Cần khám Thần kinh trong ngày hôm nay.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-than-kinh"
+  },
+  {
+    "id": "stroke-mild",
+    "patterns": [
+      "méo miệng",
+      "tê yếu nửa người",
+      "nói không ra lời",
+      "đột ngột không nói được",
+      "tay chân bên phải yếu",
+      "tay chân bên trái yếu"
+    ],
+    "warning": "Dấu hiệu đột quỵ — cần cấp cứu ngay, gọi 115 hoặc đến cấp cứu gần nhất.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-than-kinh"
+  },
+  {
+    "id": "chest-pain-cardiac",
+    "patterns": [
+      "đau thắt ngực",
+      "đau ngực lan lên vai",
+      "đau ngực lan ra tay trái",
+      "tức ngực kèm vã mồ hôi",
+      "đau ngực kèm khó thở",
+      "đau ngực đột ngột"
+    ],
+    "warning": "Đau ngực có thể liên quan đến tim — cần đánh giá khẩn cấp. Nếu đau dữ dội, gọi 115 ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tim-mach"
+  },
+  {
+    "id": "headache-thunderclap",
+    "patterns": [
+      "đau đầu dữ dội nhất trong đời",
+      "đau đầu đột ngột như búa đập",
+      "đau đầu dữ dội kèm nôn",
+      "đau đầu dữ dội kèm cứng cổ"
+    ],
+    "warning": "Đau đầu kiểu này có thể là xuất huyết não — cần cấp cứu ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-than-kinh"
+  },
+  {
+    "id": "dvt-warning",
+    "patterns": [
+      "một chân sưng phù không rõ lý do",
+      "bắp chân sưng đỏ một bên",
+      "chân sưng sau ngồi máy bay lâu",
+      "một chân to hơn chân kia đột ngột"
+    ],
+    "warning": "Sưng một chân có thể là huyết khối tĩnh mạch sâu — nguy cơ tắc mạch phổi. Cần khám tim mạch trong ngày hôm nay.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-tim-mach"
+  },
+  {
+    "id": "vision-sudden-loss",
+    "patterns": [
+      "mù một mắt đột ngột",
+      "nhìn mờ một mắt đột ngột",
+      "mất thị lực đột ngột",
+      "màn che một mắt"
+    ],
+    "warning": "Mất thị lực đột ngột có thể là tắc mạch máu mắt — cần cấp cứu mắt ngay trong giờ.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "mat"
+  },
+  {
+    "id": "syncope",
+    "patterns": [
+      "ngất xỉu",
+      "mất ý thức thoáng qua",
+      "xỉu rồi tỉnh lại",
+      "ngất khi đứng lên",
+      "ngất khi gắng sức"
+    ],
+    "warning": "Ngất có thể do tim hoặc thần kinh — cần được đánh giá nguyên nhân sớm, đặt lịch khám trong ngày.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-tim-mach"
+  },
+  {
+    "id": "gi-bleed-warning",
+    "patterns": [
+      "nôn ra máu",
+      "đi ngoài phân đen",
+      "phân màu đen như nhựa đường",
+      "đi ngoài máu tươi nhiều"
+    ],
+    "warning": "Xuất huyết tiêu hóa — cần cấp cứu ngay, đừng chờ đặt lịch.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tieu-hoa"
+  },
+  {
+    "id": "severe-abdominal-pain",
+    "patterns": [
+      "đau bụng dữ dội đột ngột",
+      "đau bụng không dứt kèm sốt",
+      "bụng cứng đau không dám đụng vào",
+      "đau hố chậu phải dữ dội"
+    ],
+    "warning": "Đau bụng cấp có thể cần phẫu thuật khẩn — cần cấp cứu hoặc khám ngoại khoa ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tieu-hoa"
+  },
+  {
+    "id": "anaphylaxis-mild",
+    "patterns": [
+      "nổi mề đay toàn thân kèm khó thở",
+      "môi lưỡi sưng sau ăn",
+      "ngứa toàn thân kèm tức ngực",
+      "phù mặt đột ngột sau dùng thuốc"
+    ],
+    "warning": "Phản ứng dị ứng nghiêm trọng — nếu khó thở hoặc sưng họng, gọi 115 ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "hen-di-ung-mien-dich"
+  },
+  {
+    "id": "cancer-weight-loss",
+    "patterns": [
+      "sụt cân không rõ nguyên nhân",
+      "gầy nhanh dù ăn bình thường",
+      "sụt hơn 5kg trong một tháng không rõ lý do"
+    ],
+    "warning": "Sụt cân không rõ nguyên nhân cần được kiểm tra sớm để loại trừ bệnh lý nghiêm trọng.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "kham-suc-khoe-tong-quat-nguoi-lon"
+  },
+  {
+    "id": "cancer-bleeding",
+    "patterns": [
+      "ho ra máu kéo dài",
+      "tiểu máu không đau",
+      "xuất huyết âm đạo sau mãn kinh",
+      "phân có máu kéo dài nhiều tuần"
+    ],
+    "warning": "Chảy máu bất thường kéo dài cần được kiểm tra sớm.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "kham-suc-khoe-tong-quat-nguoi-lon"
+  },
+  {
+    "id": "cancer-lump",
+    "patterns": [
+      "nổi hạch không đau ở cổ",
+      "sờ thấy cục cứng ở vú",
+      "cục u ngày càng to",
+      "hạch nách sưng không đau"
+    ],
+    "warning": "Khối u hoặc hạch bất thường cần được đánh giá sớm.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "trung-tam-ung-buou"
+  },
+  {
+    "id": "mental-health-crisis",
+    "patterns": [
+      "muốn tự làm hại bản thân",
+      "nghĩ đến tự tử",
+      "không muốn sống nữa",
+      "muốn chết"
+    ],
+    "warning": "Bạn không phải đối mặt một mình. Hãy gọi đường dây hỗ trợ sức khỏe tâm thần 1800 599 920 (miễn phí, 24/7) hoặc đến cơ sở y tế gần nhất.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "tam-ly"
+  },
+  {
+    "id": "pediatric-danger",
+    "patterns": [
+      "trẻ sốt cao co giật",
+      "trẻ li bì không dậy được",
+      "trẻ khó thở thở nhanh",
+      "trẻ bỏ bú hoàn toàn",
+      "trẻ nôn liên tục không bú được"
+    ],
+    "warning": "Dấu hiệu nguy hiểm ở trẻ — cần đưa trẻ đến cấp cứu nhi ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "nhi"
+  }
+]
