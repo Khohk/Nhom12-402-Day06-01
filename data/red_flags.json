@@ -1,1037 +1,207 @@
 [
   {
-    "id": "heart-attack",
+    "id": "tia",
     "patterns": [
-      "đau thắt ngực",
-      "đau đè nén ngực",
-      "vã mồ hôi lạnh",
-      "đau lan lên hàm",
-      "đau lan ra tay trái"
+      "tê tay thoáng qua rồi hết",
+      "tê mặt một lúc rồi hết",
+      "nói lắp một lúc rồi bình thường",
+      "méo miệng thoáng qua",
+      "yếu tay chân rồi hết",
+      "nhìn mờ một mắt rồi hết"
     ],
-    "warning": "Nhồi máu cơ tim cấp",
-    "urgent": true
+    "warning": "Triệu chứng có thể là đột quỵ thoáng qua (TIA) — dù đã hết, nguy cơ đột quỵ thật trong 48h rất cao. Cần khám Thần kinh trong ngày hôm nay.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-than-kinh"
   },
   {
-    "id": "aortic-dissection",
-    "patterns": [
-      "đau ngực xé",
-      "đau lưng xé",
-      "đau ngực đột ngột dữ dội"
-    ],
-    "warning": "Bóc tách động mạch chủ - Rất nguy hiểm",
-    "urgent": true
-  },
-  {
-    "id": "hypertensive-crisis",
-    "patterns": [
-      "huyết áp cao đột ngột",
-      "nhìn mờ kèm cao huyết áp",
-      "đau đầu dữ dội kìm cao huyết áp"
-    ],
-    "warning": "Cơn tăng huyết áp kịch phát",
-    "urgent": true
-  },
-  {
-    "id": "arrhythmia-unstable",
-    "patterns": [
-      "đánh trống ngực kèm ngất",
-      "nhịp tim quá nhanh",
-      "nhịp tim quá chậm kèm mệt"
-    ],
-    "warning": "Rối loạn nhịp tim không ổn định",
-    "urgent": true
-  },
-  {
-    "id": "heart-failure-acute",
-    "patterns": [
-      "khó thở khi nằm",
-      "thở khò khè bọt hồng",
-      "phù chân nhanh"
-    ],
-    "warning": "Phù phổi cấp / Suy tim cấp",
-    "urgent": true
-  },
-  {
-    "id": "pulmonary-embolism",
-    "patterns": [
-      "đau ngực khi hít sâu",
-      "ho ra máu",
-      "khó thở đột ngột"
-    ],
-    "warning": "Thuyên tắc phổi",
-    "urgent": true
-  },
-  {
-    "id": "dvt",
-    "patterns": [
-      "sưng một bên chân",
-      "đau bắp chân dữ dội",
-      "chân nóng đỏ một bên"
-    ],
-    "warning": "Huyết khối tĩnh mạch sâu - Nguy cơ thuyên tắc phổi",
-    "urgent": true
-  },
-  {
-    "id": "bradycardia-symptomatic",
-    "patterns": [
-      "mạch chậm dưới 40",
-      "ngất xỉu do mạch chậm"
-    ],
-    "warning": "Nhịp chậm triệu chứng nặng",
-    "urgent": true
-  },
-  {
-    "id": "stroke-fast",
+    "id": "stroke-mild",
     "patterns": [
       "méo miệng",
-      "yếu nửa người",
-      "tê yếu tay chân",
-      "nói khó"
+      "tê yếu nửa người",
+      "nói không ra lời",
+      "đột ngột không nói được",
+      "tay chân bên phải yếu",
+      "tay chân bên trái yếu"
     ],
-    "warning": "Đột quỵ não - Giờ vàng cấp cứu",
-    "urgent": true
+    "warning": "Dấu hiệu đột quỵ — cần cấp cứu ngay, gọi 115 hoặc đến cấp cứu gần nhất.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-than-kinh"
   },
   {
-    "id": "hemorrhage-brain",
+    "id": "chest-pain-cardiac",
     "patterns": [
-      "đau đầu như búa bổ",
-      "nôn vọt",
-      "cứng cổ đột ngột"
+      "đau thắt ngực",
+      "đau ngực lan lên vai",
+      "đau ngực lan ra tay trái",
+      "tức ngực kèm vã mồ hôi",
+      "đau ngực kèm khó thở",
+      "đau ngực đột ngột"
     ],
-    "warning": "Xuất huyết não / Xuất huyết dưới nhện",
-    "urgent": true
+    "warning": "Đau ngực có thể liên quan đến tim — cần đánh giá khẩn cấp. Nếu đau dữ dội, gọi 115 ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tim-mach"
   },
   {
-    "id": "meningitis",
+    "id": "headache-thunderclap",
     "patterns": [
-      "sốt cao kèm cứng cổ",
-      "sợ ánh sáng",
-      "phát ban dạng bản đồ"
+      "đau đầu dữ dội nhất trong đời",
+      "đau đầu đột ngột như búa đập",
+      "đau đầu dữ dội kèm nôn",
+      "đau đầu dữ dội kèm cứng cổ"
     ],
-    "warning": "Viêm màng não",
-    "urgent": true
+    "warning": "Đau đầu kiểu này có thể là xuất huyết não — cần cấp cứu ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-than-kinh"
   },
   {
-    "id": "cauda-equina",
+    "id": "dvt-warning",
     "patterns": [
-      "bí tiểu đột ngột",
-      "yếu hai chân",
-      "tê vùng yên ngựa",
-      "mất kiểm soát đại tiểu tiện"
+      "một chân sưng phù không rõ lý do",
+      "bắp chân sưng đỏ một bên",
+      "chân sưng sau ngồi máy bay lâu",
+      "một chân to hơn chân kia đột ngột"
     ],
-    "warning": "Hội chứng chùm đuôi ngựa - Cấp cứu ngoại thần kinh",
-    "urgent": true
+    "warning": "Sưng một chân có thể là huyết khối tĩnh mạch sâu — nguy cơ tắc mạch phổi. Cần khám tim mạch trong ngày hôm nay.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-tim-mach"
   },
   {
-    "id": "increased-icp",
+    "id": "vision-sudden-loss",
     "patterns": [
-      "giảm thị lực nhanh",
-      "đau đầu tăng dần kèm nôn",
-      "tri giác lơ mơ"
+      "mù một mắt đột ngột",
+      "nhìn mờ một mắt đột ngột",
+      "mất thị lực đột ngột",
+      "màn che một mắt"
     ],
-    "warning": "Tăng áp lực nội sọ",
-    "urgent": true
+    "warning": "Mất thị lực đột ngột có thể là tắc mạch máu mắt — cần cấp cứu mắt ngay trong giờ.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "mat"
   },
   {
-    "id": "seizure-status",
+    "id": "syncope",
     "patterns": [
-      "co giật liên tục",
-      "co giật không tỉnh giữa các cơn",
-      "truyền trạng thái động kinh"
+      "ngất xỉu",
+      "mất ý thức thoáng qua",
+      "xỉu rồi tỉnh lại",
+      "ngất khi đứng lên",
+      "ngất khi gắng sức"
     ],
-    "warning": "Trạng thái động kinh - Cấp cứu",
-    "urgent": true
+    "warning": "Ngất có thể do tim hoặc thần kinh — cần được đánh giá nguyên nhân sớm, đặt lịch khám trong ngày.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "noi-tim-mach"
   },
   {
-    "id": "spinal-cord-injury",
-    "patterns": [
-      "mất cảm giác từ ngực trở xuống",
-      "liệt tứ chi đột ngột",
-      "đau cột sống dữ dội sau chấn thương"
-    ],
-    "warning": "Chấn thương cột sống cấp",
-    "urgent": true
-  },
-  {
-    "id": "temporal-arteritis",
-    "patterns": [
-      "đau vùng thái dương",
-      "nhìn mờ một bên",
-      "đau hàm khi nhai"
-    ],
-    "warning": "Viêm động mạch thái dương - Nguy cơ mù lòa",
-    "urgent": true
-  },
-  {
-    "id": "tension-pneumothorax",
-    "patterns": [
-      "lệch khí quản",
-      "khó thở dữ dội một bên",
-      "lồng ngực căng phồng một bên"
-    ],
-    "warning": "Tràn khí màng phổi áp lực - Cấp cứu tối khẩn",
-    "urgent": true
-  },
-  {
-    "id": "asthma-near-fatal",
-    "patterns": [
-      "lồng ngực yên lặng",
-      "không thể nói chuyện",
-      "tím tái do hen"
-    ],
-    "warning": "Hen suyễn ác tính",
-    "urgent": true
-  },
-  {
-    "id": "epiglottitis",
-    "patterns": [
-      "chảy nước dãi",
-      "khó nuốt dữ dội",
-      "thở rít co kéo"
-    ],
-    "warning": "Viêm nắp thanh quản - Nguy cơ tắc đường thở",
-    "urgent": true
-  },
-  {
-    "id": "foreign-body-airway",
-    "patterns": [
-      "hóc dị vật",
-      "ho sặc sụa rồi tím tái",
-      "nghẹt thở đột ngột khi ăn"
-    ],
-    "warning": "Dị vật đường thở",
-    "urgent": true
-  },
-  {
-    "id": "copd-exacerbation",
-    "patterns": [
-      "thở gấp không dứt",
-      "mệt lả do thiếu oxy",
-      "tri giác thay đổi do ứ CO2"
-    ],
-    "warning": "Đợt cấp COPD nặng",
-    "urgent": true
-  },
-  {
-    "id": "pneumonia-severe",
-    "patterns": [
-      "sốt cao khó thở",
-      "đờm rỉ sắt",
-      "spo2 hạ thấp"
-    ],
-    "warning": "Viêm phổi nặng",
-    "urgent": true
-  },
-  {
-    "id": "perforated-viscus",
-    "patterns": [
-      "bụng cứng như gỗ",
-      "đau bụng dữ dội như dao đâm",
-      "vã mồ hôi do đau bụng"
-    ],
-    "warning": "Thủng tạng rỗng - Viêm phúc mạc",
-    "urgent": true
-  },
-  {
-    "id": "ectopic-pregnancy",
-    "patterns": [
-      "trễ kinh kèm đau bụng dưới",
-      "chảy máu âm đạo kèm ngất",
-      "đau nhói hạ vị"
-    ],
-    "warning": "Thai ngoài tử cung vỡ - Xuất huyết nội",
-    "urgent": true
-  },
-  {
-    "id": "bowel-obstruction",
-    "patterns": [
-      "bí trung đại tiện",
-      "nôn ra dịch phân",
-      "bụng chướng căng đau"
-    ],
-    "warning": "Tắc ruột cấp",
-    "urgent": true
-  },
-  {
-    "id": "pancreatitis-acute",
-    "patterns": [
-      "đau bụng thượng vị lan ra sau lưng",
-      "nôn liên tục không hết đau",
-      "đau sau bữa ăn thịnh soạn"
-    ],
-    "warning": "Viêm tụy cấp nặng",
-    "urgent": true
-  },
-  {
-    "id": "appendicitis-ruptured",
-    "patterns": [
-      "đau hố chậu phải",
-      "sốt kèm bụng gồng cứng",
-      "đau bụng chuyển sang toàn bộ bụng"
-    ],
-    "warning": "Viêm ruột thừa vỡ",
-    "urgent": true
-  },
-  {
-    "id": "gi-hemorrhage",
+    "id": "gi-bleed-warning",
     "patterns": [
       "nôn ra máu",
-      "đi ngoài phân đen như nhựa đường",
-      "đi ngoài máu tươi ồ ạt"
+      "đi ngoài phân đen",
+      "phân màu đen như nhựa đường",
+      "đi ngoài máu tươi nhiều"
     ],
-    "warning": "Xuất huyết tiêu hóa cấp",
-    "urgent": true
+    "warning": "Xuất huyết tiêu hóa — cần cấp cứu ngay, đừng chờ đặt lịch.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tieu-hoa"
   },
   {
-    "id": "mesenteric-ischemia",
+    "id": "severe-abdominal-pain",
     "patterns": [
-      "đau bụng dữ dội nhưng khám bụng ít đau",
-      "đau bụng sau ăn ở người già",
-      "đau bụng cấp không giải thích được"
+      "đau bụng dữ dội đột ngột",
+      "đau bụng không dứt kèm sốt",
+      "bụng cứng đau không dám đụng vào",
+      "đau hố chậu phải dữ dội"
     ],
-    "warning": "Thiếu máu màng treo ruột - Rất nguy hiểm",
-    "urgent": true
+    "warning": "Đau bụng cấp có thể cần phẫu thuật khẩn — cần cấp cứu hoặc khám ngoại khoa ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "noi-tieu-hoa"
   },
   {
-    "id": "aaa-rupture",
+    "id": "anaphylaxis-mild",
     "patterns": [
-      "đau lưng đột ngột dữ dội",
-      "khối u bụng đập theo nhịp tim",
-      "tụt huyết áp đột ngột"
+      "nổi mề đay toàn thân kèm khó thở",
+      "môi lưỡi sưng sau ăn",
+      "ngứa toàn thân kèm tức ngực",
+      "phù mặt đột ngột sau dùng thuốc"
     ],
-    "warning": "Vỡ phình động mạch chủ bụng",
-    "urgent": true
+    "warning": "Phản ứng dị ứng nghiêm trọng — nếu khó thở hoặc sưng họng, gọi 115 ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "hen-di-ung-mien-dich"
   },
   {
-    "id": "sepsis-severe",
+    "id": "cancer-weight-loss",
     "patterns": [
-      "sốt cao rét run",
-      "huyết áp tụt",
-      "tiểu ít",
-      "lơ mơ do nhiễm trùng"
+      "sụt cân không rõ nguyên nhân",
+      "gầy nhanh dù ăn bình thường",
+      "sụt hơn 5kg trong một tháng không rõ lý do"
     ],
-    "warning": "Nhiễm trùng huyết / Sốc nhiễm khuẩn",
-    "urgent": true
+    "warning": "Sụt cân không rõ nguyên nhân cần được kiểm tra sớm để loại trừ bệnh lý nghiêm trọng.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "kham-suc-khoe-tong-quat-nguoi-lon"
   },
   {
-    "id": "anaphylaxis-total",
+    "id": "cancer-bleeding",
     "patterns": [
-      "phù mạch",
-      "khó thở sau tiêm thuốc",
-      "mẩn ngứa toàn thân kèm tụt huyết áp"
+      "ho ra máu kéo dài",
+      "tiểu máu không đau",
+      "xuất huyết âm đạo sau mãn kinh",
+      "phân có máu kéo dài nhiều tuần"
     ],
-    "warning": "Sốc phản vệ",
-    "urgent": true
+    "warning": "Chảy máu bất thường kéo dài cần được kiểm tra sớm.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "kham-suc-khoe-tong-quat-nguoi-lon"
   },
   {
-    "id": "dengue-warning",
+    "id": "cancer-lump",
     "patterns": [
-      "sốt xuất huyết kèm đau bụng",
-      "nôn nhiều",
-      "chảy máu chân răng",
-      "mệt lả"
+      "nổi hạch không đau ở cổ",
+      "sờ thấy cục cứng ở vú",
+      "cục u ngày càng to",
+      "hạch nách sưng không đau"
     ],
-    "warning": "Sốt xuất huyết có dấu hiệu cảnh báo",
-    "urgent": true
+    "warning": "Khối u hoặc hạch bất thường cần được đánh giá sớm.",
+    "urgent": false,
+    "priority": true,
+    "recommend_er": false,
+    "speciality_hint": "trung-tam-ung-buou"
   },
   {
-    "id": "necrotizing-fasciitis",
+    "id": "mental-health-crisis",
     "patterns": [
-      "đau da dữ dội hơn vẻ ngoài",
-      "da thâm tím bóng nước",
-      "tiếng lạo xạo dưới da"
+      "muốn tự làm hại bản thân",
+      "nghĩ đến tự tử",
+      "không muốn sống nữa",
+      "muốn chết"
     ],
-    "warning": "Viêm cân mạc hoại tử - Cắt lọc khẩn",
-    "urgent": true
+    "warning": "Bạn không phải đối mặt một mình. Hãy gọi đường dây hỗ trợ sức khỏe tâm thần 1800 599 920 (miễn phí, 24/7) hoặc đến cơ sở y tế gần nhất.",
+    "urgent": true,
+    "recommend_er": false,
+    "speciality_hint": "tam-ly"
   },
   {
-    "id": "tetanus-acute",
+    "id": "pediatric-danger",
     "patterns": [
-      "cứng hàm",
-      "co giật khi có kích thích ánh sáng",
-      "người uốn cong như đòn gánh"
+      "trẻ sốt cao co giật",
+      "trẻ li bì không dậy được",
+      "trẻ khó thở thở nhanh",
+      "trẻ bỏ bú hoàn toàn",
+      "trẻ nôn liên tục không bú được"
     ],
-    "warning": "Uốn ván nặng",
-    "urgent": true
-  },
-  {
-    "id": "malaria-cerebral",
-    "patterns": [
-      "sốt rét kèm hôn mê",
-      "co giật sau cơn sốt rét",
-      "vàng da kèm sốt cao"
-    ],
-    "warning": "Sốt rét ác tính thể não",
-    "urgent": true
-  },
-  {
-    "id": "testicular-torsion",
-    "patterns": [
-      "đau tinh hoàn đột ngột",
-      "tinh hoàn sưng to rút lên cao",
-      "nôn kèm đau tinh hoàn"
-    ],
-    "warning": "Xoắn tinh hoàn - Cấp cứu trong 6 giờ",
-    "urgent": true
-  },
-  {
-    "id": "ovarian-torsion",
-    "patterns": [
-      "đau bụng dưới đột ngột",
-      "đau nhói một bên hạ vị",
-      "buồn nôn kèm đau bụng dưới"
-    ],
-    "warning": "Xoắn buồng trứng",
-    "urgent": true
-  },
-  {
-    "id": "priapism",
-    "patterns": [
-      "cương dương kéo dài trên 4 giờ",
-      "đau dương vật khi cương lâu"
-    ],
-    "warning": "Cương đau dương vật kéo dài - Nguy cơ hoại tử",
-    "urgent": true
-  },
-  {
-    "id": "acute-renal-failure",
-    "patterns": [
-      "vô niệu",
-      "không có nước tiểu cả ngày",
-      "phù mặt kèm mất tiểu"
-    ],
-    "warning": "Suy thận cấp cấp tính",
-    "urgent": true
-  },
-  {
-    "id": "urinary-retention",
-    "patterns": [
-      "bí tiểu hoàn toàn",
-      "cầu bàng quang căng đau",
-      "đau tức vùng hạ vị không tiểu được"
-    ],
-    "warning": "Bí tiểu cấp",
-    "urgent": true
-  },
-  {
-    "id": "preeclampsia-severe",
-    "patterns": [
-      "phù chân kèm nhức đầu",
-      "nhìn mờ khi mang thai",
-      "đau thượng vị khi mang thai"
-    ],
-    "warning": "Tiền sản giật nặng / Sản giật",
-    "urgent": true
-  },
-  {
-    "id": "placental-abruption",
-    "patterns": [
-      "đau bụng như dao đâm khi mang thai",
-      "bụng cứng như gỗ khi mang thai",
-      "ra máu âm đạo sẫm màu"
-    ],
-    "warning": "Nhau bong non",
-    "urgent": true
-  },
-  {
-    "id": "umbilical-cord-prolapse",
-    "patterns": [
-      "sa dây rốn",
-      "thấy dây rốn thò ra ngoài"
-    ],
-    "warning": "Sa dây rốn - Cấp cứu sản khoa tối khẩn",
-    "urgent": true
-  },
-  {
-    "id": "postpartum-hemorrhage",
-    "patterns": [
-      "ra máu ồ ạt sau sinh",
-      "mệt lả vã mồ hôi sau sinh"
-    ],
-    "warning": "Băng huyết sau sinh",
-    "urgent": true
-  },
-  {
-    "id": "decreased-fetal-movement",
-    "patterns": [
-      "thai ít máy",
-      "thai không cử động",
-      "mất máy thai",
-      "thai máy yếu"
-    ],
-    "warning": "Suy thai cấp",
-    "urgent": true
-  },
-  {
-    "id": "retinal-detachment",
-    "patterns": [
-      "thấy chớp sáng",
-      "thấy màn đen che khuất tầm nhìn",
-      "mưa tấy bay đột ngột"
-    ],
-    "warning": "Bong võng mạc",
-    "urgent": true
-  },
-  {
-    "id": "acute-glaucoma-2",
-    "patterns": [
-      "đau mắt đỏ dữ dội",
-      "nhìn quầng xanh đỏ",
-      "buồn nôn kèm đau nhức mắt"
-    ],
-    "warning": "Glocom góc đóng cấp",
-    "urgent": true
-  },
-  {
-    "id": "central-retinal-artery-occlusion",
-    "patterns": [
-      "mất thị lực đột ngột không đau",
-      "mù một bên đột ngột"
-    ],
-    "warning": "Tắc động mạch trung tâm võng mạc - Đột quỵ mắt",
-    "urgent": true
-  },
-  {
-    "id": "orbital-cellulitis",
-    "patterns": [
-      "mắt sưng lồi",
-      "đau khi liếc mắt",
-      "nhìn đôi kèm sốt"
-    ],
-    "warning": "Viêm tổ chức hốc mắt",
-    "urgent": true
-  },
-  {
-    "id": "chemical-burn-eye",
-    "patterns": [
-      "hóa chất bắn vào mắt",
-      "axit bắn vào mắt",
-      "kiềm bắn vào mắt"
-    ],
-    "warning": "Bỏng hóa chất mắt - Rửa mắt khẩn cấp",
-    "urgent": true
-  },
-  {
-    "id": "carbon-monoxide",
-    "patterns": [
-      "ngộ độc khí than",
-      "da đỏ hồng kèm lơ mơ",
-      "đau đầu buồn nôn khi dùng bếp than"
-    ],
-    "warning": "Ngộ độc khí CO",
-    "urgent": true
-  },
-  {
-    "id": "dka",
-    "patterns": [
-      "hơi thở mùi trái cây",
-      "khát nước dữ dội kèm gầy sút",
-      "thở nhanh sâu Kussmaul"
-    ],
-    "warning": "Toan ceton do đái tháo đường",
-    "urgent": true
-  },
-  {
-    "id": "hypoglycemia-severe",
-    "patterns": [
-      "vã mồ hôi run tay",
-      "lơ mơ do đói",
-      "hôn mê ở người tiểu đường"
-    ],
-    "warning": "Hạ đường huyết nặng",
-    "urgent": true
-  },
-  {
-    "id": "opiate-overdose",
-    "patterns": [
-      "ngừng thở",
-      "đồng tử nhỏ như đầu đinh ghim",
-      "hôn mê sau tiêm chích"
-    ],
-    "warning": "Ngộ độc thuốc phiện / Opiate",
-    "urgent": true
-  },
-  {
-    "id": "paraquat-poisoning",
-    "patterns": [
-      "uống thuốc diệt cỏ paraquat",
-      "loét miệng sau uống thuốc diệt cỏ"
-    ],
-    "warning": "Ngộ độc Paraquat - Tiên lượng rất xấu",
-    "urgent": true
-  },
-  {
-    "id": "serotonin-syndrome",
-    "patterns": [
-      "vã mồ hôi kèm run",
-      "cứng cơ kèm sốt cao khi dùng thuốc trầm cảm",
-      "kích động dữ dội"
-    ],
-    "warning": "Hội chứng Serotonin",
-    "urgent": true
-  },
-  {
-    "id": "compartment-syndrome",
-    "patterns": [
-      "đau quá mức sau bó bột",
-      "mất mạch chi",
-      "tê bì chi sau chấn thương"
-    ],
-    "warning": "Hội chứng chèn ép khoang",
-    "urgent": true
-  },
-  {
-    "id": "pelvic-fracture",
-    "patterns": [
-      "đau vùng chậu dữ dội sau tai nạn",
-      "mất máu nhiều sau ngã cao",
-      "không thể nhấc chân sau tai nạn"
-    ],
-    "warning": "Gãy xương chậu - Nguy cơ sốc mất máu",
-    "urgent": true
-  },
-  {
-    "id": "open-fracture",
-    "patterns": [
-      "gãy xương hở",
-      "xương đâm lòi ra ngoài da",
-      "vết thương dập nát thấy xương"
-    ],
-    "warning": "Gãy xương hở",
-    "urgent": true
-  },
-  {
-    "id": "internal-bleeding",
-    "patterns": [
-      "chấn thương bụng kín kèm tụt huyết áp",
-      "bụng chướng đau sau tai nạn",
-      "da nhợt nhạt sau va chạm mạnh"
-    ],
-    "warning": "Chấn thương tạng đặc / Chảy máu trong bụng",
-    "urgent": true
-  },
-  {
-    "id": "dislocation-hip",
-    "patterns": [
-      "khớp háng biến dạng sau tai nạn",
-      "chân ngắn hơn chân kia sau tai nạn"
-    ],
-    "warning": "Trật khớp háng",
-    "urgent": true
-  },
-  {
-    "id": "traumatic-brain-injury",
-    "patterns": [
-      "giãn đồng tử sau tai nạn",
-      "lỗ tai chảy dịch trong",
-      "khoảng tỉnh sau chấn thương đầu"
-    ],
-    "warning": "Chấn thương sọ não nặng / Vỡ đáy sọ",
-    "urgent": true
-  },
-  {
-    "id": "suicidal-ideation",
-    "patterns": [
-      "muốn tự tử",
-      "có kế hoạch tự sát",
-      "viết thư tuyệt mệnh",
-      "chuẩn bị dây thừng/thuốc"
-    ],
-    "warning": "Nguy cơ tự sát cao",
-    "urgent": true
-  },
-  {
-    "id": "acute-psychosis",
-    "patterns": [
-      "nghe thấy tiếng nói thúc giục giết người",
-      "ảo giác dữ dội",
-      "kích động đập phá không kiểm soát"
-    ],
-    "warning": "Loạn thần cấp tính - Nguy cơ gây hại",
-    "urgent": true
-  },
-  {
-    "id": "dehydration-severe-infant",
-    "patterns": [
-      "trẻ thóp trũng",
-      "khóc không ra nước mắt",
-      "da bụng chun giãn kém"
-    ],
-    "warning": "Mất nước nặng ở trẻ em",
-    "urgent": true
-  },
-  {
-    "id": "febrile-seizure-complex",
-    "patterns": [
-      "co giật do sốt kéo dài",
-      "co giật khu trú một bên"
-    ],
-    "warning": "Co giật do sốt phức tạp",
-    "urgent": true
-  },
-  {
-    "id": "intussusception",
-    "patterns": [
-      "trẻ khóc thét từng cơn",
-      "đi ngoài phân máu lẫn nhầy",
-      "bỏ bú kèm nôn"
-    ],
-    "warning": "Lồng ruột ở trẻ em",
-    "urgent": true
-  },
-  {
-    "id": "croup-severe",
-    "patterns": [
-      "thở rít lúc nằm yên",
-      "ho ông ổng",
-      "tím tái khi ho"
-    ],
-    "warning": "Viêm thanh khí phế quản cấp nặng",
-    "urgent": true
-  },
-  {
-    "id": "infant-lethargy",
-    "patterns": [
-      "trẻ li bì khó đánh thức",
-      "bỏ bú hoàn toàn",
-      "trẻ quấy khóc không thể dỗ"
-    ],
-    "warning": "Dấu hiệu nguy hiểm toàn thân ở trẻ nhỏ",
-    "urgent": true
-  },
-  {
-    "id": "post-tonsillectomy-bleeding",
-    "patterns": [
-      "chảy máu sau cắt amidan",
-      "nôn ra máu tươi sau phẫu thuật họng"
-    ],
-    "warning": "Chảy máu sau cắt Amidan - Cấp cứu tai mũi họng",
-    "urgent": true
-  },
-  {
-    "id": "ludwig-angina",
-    "patterns": [
-      "sưng sàn miệng dữ dội",
-      "khó thở do sưng họng",
-      "đau răng kèm sưng cổ to"
-    ],
-    "warning": "Viêm tấy sàn miệng Ludwig - Nguy cơ nghẹt thở",
-    "urgent": true
-  },
-  {
-    "id": "nosebleed-uncontrollable",
-    "patterns": [
-      "chảy máu cam không cầm",
-      "chảy máu mũi ồ ạt sau chấn thương mặt"
-    ],
-    "warning": "Chảy máu mũi nặng / Vỡ động mạch sàng",
-    "urgent": true
-  },
-  {
-    "id": "mastoiditis",
-    "patterns": [
-      "đau sau tai dữ dội",
-      "tai bị đẩy vểnh ra trước",
-      "sốt kèm chảy mủ tai"
-    ],
-    "warning": "Viêm xương chũm cấp",
-    "urgent": true
-  },
-  {
-    "id": "steven-johnson",
-    "patterns": [
-      "loét niêm mạc miệng và mắt",
-      "da bong tróc mảng lớn sau dùng thuốc",
-      "sốt kèm phồng rộp da toàn thân"
-    ],
-    "warning": "Hội chứng Steven-Johnson / Ly tâm biểu bì nhiễm độc (TEN)",
-    "urgent": true
-  },
-  {
-    "id": "erythroderma",
-    "patterns": [
-      "da đỏ toàn thân",
-      "run bần bật do mất nhiệt qua da",
-      "phù toàn thân kèm đỏ da"
-    ],
-    "warning": "Viêm da đỏ toàn thân cấp",
-    "urgent": true
-  },
-  {
-    "id": "acute-ischemic-limb",
-    "patterns": [
-      "lạnh chi đột ngột",
-      "mất mạch chân đột ngột",
-      "chân trắng bệch không cảm giác"
-    ],
-    "warning": "Thiếu máu chi cấp tính",
-    "urgent": true
-  },
-  {
-    "id": "pulmonary-hemorrhage",
-    "patterns": [
-      "ho ra máu sét đánh",
-      "ho máu ồ ạt"
-    ],
-    "warning": "Ho ra máu sét đánh - Nguy cơ tử vong tức thì",
-    "urgent": true
-  },
-  {
-    "id": "hypothermia",
-    "patterns": [
-      "thân nhiệt dưới 35 độ",
-      "người lạnh ngắt không run được",
-      "tri giác lơ mơ do lạnh"
-    ],
-    "warning": "Hạ thân nhiệt nặng",
-    "urgent": true
-  },
-  {
-    "id": "heat-stroke",
-    "patterns": [
-      "say nắng kèm hôn mê",
-      "nhiệt độ cơ thể trên 40 độ",
-      "da nóng khô không mồ hôi"
-    ],
-    "warning": "Sốc nhiệt",
-    "urgent": true
-  },
-  {
-    "id": "aspiration-pneumonia",
-    "patterns": [
-      "sặc dịch dạ dày vào phổi",
-      "khó thở ngay sau khi nôn"
-    ],
-    "warning": "Viêm phổi do hít phải",
-    "urgent": true
-  },
-  {
-    "id": "cardiac-tamponade",
-    "patterns": [
-      "tĩnh mạch cổ nổi",
-      "tiếng tim mờ",
-      "huyết áp tụt"
-    ],
-    "warning": "Chèn ép tim cấp",
-    "urgent": true
-  },
-  {
-    "id": "liver-failure-acute",
-    "patterns": [
-      "vàng da mắt nhanh chóng",
-      "rối loạn tri giác ở người bệnh gan",
-      "xuất huyết dưới da toàn thân"
-    ],
-    "warning": "Suy gan cấp / Hôn mê gan",
-    "urgent": true
-  },
-  {
-    "id": "upper-airway-obstruction",
-    "patterns": [
-      "nuốt vướng vướng họng tăng dần",
-      "thở khò khè thanh quản"
-    ],
-    "warning": "Tắc nghẽn đường hô hấp trên",
-    "urgent": true
-  },
-  {
-    "id": "snake-bite-venomous",
-    "patterns": [
-      "rắn độc cắn",
-      "vết cắn sưng nề nhanh",
-      "sụp mi mắt sau khi bị rắn cắn"
-    ],
-    "warning": "Ngộ độc nọc rắn",
-    "urgent": true
-  },
-  {
-    "id": "honey-bee-sting-multiple",
-    "patterns": [
-      "ong vò vẽ đốt nhiều nốt",
-      "nước tiểu màu đỏ sau ong đốt"
-    ],
-    "warning": "Độc chất nọc ong - Nguy cơ tiêu cơ vân/suy thận",
-    "urgent": true
-  },
-  {
-    "id": "electric-shock-internal",
-    "patterns": [
-      "điện giật mạnh",
-      "mất ý thức sau điện giật",
-      "phỏng điện sâu"
-    ],
-    "warning": "Chấn thương do điện",
-    "urgent": true
-  },
-  {
-    "id": "near-drowning",
-    "patterns": [
-      "đuối nước",
-      "ho sặc sụa sau khi được cứu khỏi nước"
-    ],
-    "warning": "Ngạt nước",
-    "urgent": true
-  },
-  {
-    "id": "thyroid-storm",
-    "patterns": [
-      "sốt cao kèm nhịp tim rất nhanh",
-      "vàng da kèm kích động ở người bướu cổ"
-    ],
-    "warning": "Cơn bão giáp trạng",
-    "urgent": true
-  },
-  {
-    "id": "adrenal-crisis",
-    "patterns": [
-      "suy kiệt đột ngột ở người dùng corticoid lâu ngày",
-      "tụt huyết áp ở người bệnh Addison"
-    ],
-    "warning": "Suy thượng thận cấp",
-    "urgent": true
-  },
-  {
-    "id": "strangulated-hernia",
-    "patterns": [
-      "thoát vị bẹn căng đau không đẩy lên được",
-      "khối phồng vùng bẹn đau dữ dội"
-    ],
-    "warning": "Thoát vị bẹn nghẹt",
-    "urgent": true
-  },
-  {
-    "id": "acute-scrotum",
-    "patterns": [
-      "đau vùng bìu dữ dội",
-      "bìu sưng đỏ nhanh"
-    ],
-    "warning": "Hội chứng bìu cấp",
-    "urgent": true
-  },
-  {
-    "id": "septic-arthritis",
-    "patterns": [
-      "khớp sưng nóng đỏ đau dữ dội kèm sốt",
-      "không thể vận động khớp"
-    ],
-    "warning": "Viêm khớp nhiễm khuẩn",
-    "urgent": true
-  },
-  {
-    "id": "gas-gangrene",
-    "patterns": [
-      "vết thương thối khắm",
-      "da đen hoại tử nhanh",
-      "có bong bóng khí dưới da"
-    ],
-    "warning": "Hoại thư sinh hơi",
-    "urgent": true
-  },
-  {
-    "id": "angioedema-hereditary",
-    "patterns": [
-      "sưng nề mặt đột ngột không ngứa",
-      "đau bụng quặn từng cơn kèm sưng mặt"
-    ],
-    "warning": "Phù mạch di truyền",
-    "urgent": true
-  },
-  {
-    "id": "botulism",
-    "patterns": [
-      "liệt đối xứng từ trên xuống",
-      "sụp mi kèm khó nuốt sau ăn đồ hộp"
-    ],
-    "warning": "Ngộ độc Botulinum",
-    "urgent": true
-  },
-  {
-    "id": "rabies-suspected",
-    "patterns": [
-      "sợ nước sợ gió",
-      "bị chó dại cắn nát",
-      "lên cơn kích động sau khi bị chó cắn"
-    ],
-    "warning": "Nghi ngờ bệnh Dại",
-    "urgent": true
-  },
-  {
-    "id": "digitalis-toxicity",
-    "patterns": [
-      "nhìn vàng",
-      "nhịp tim chậm kèm buồn nôn ở người dùng Digoxin"
-    ],
-    "warning": "Ngộ độc Digoxin",
-    "urgent": true
-  },
-  {
-    "id": "malignant-hyperthermia",
-    "patterns": [
-      "sốt cao dữ dội sau gây mê",
-      "cứng cơ toàn thân sau mổ"
-    ],
-    "warning": "Sốt cao ác tính",
-    "urgent": true
-  },
-  {
-    "id": "neuroleptic-malignant",
-    "patterns": [
-      "sốt cao cứng cơ khi dùng thuốc an thần"
-    ],
-    "warning": "Hội chứng an thần ác tính",
-    "urgent": true
-  },
-  {
-    "id": "acute-mesenteric-lymphadenitis",
-    "patterns": [
-      "đau bụng giống ruột thừa ở trẻ vừa viêm họng"
-    ],
-    "warning": "Viêm hạch mạc treo (Cần phân biệt ruột thừa)",
-    "urgent": true
-  },
-  {
-    "id": "pyloric-stenosis",
-    "patterns": [
-      "trẻ nôn vọt sau bú",
-      "trẻ gầy mòn đói liên tục"
-    ],
-    "warning": "Hẹp môn vị trẻ em",
-    "urgent": true
-  },
-  {
-    "id": "malrotation-volvulus",
-    "patterns": [
-      "trẻ nôn dịch xanh rêu",
-      "bụng chướng cấp ở trẻ sơ sinh"
-    ],
-    "warning": "Xoắn ruột trẻ em",
-    "urgent": true
-  },
-  {
-    "id": "shaken-baby-syndrome",
-    "patterns": [
-      "trẻ lờ đờ sau khi bị rung lắc",
-      "vọng mạc xuất huyết ở trẻ nhỏ"
-    ],
-    "warning": "Hội chứng rung lắc trẻ em",
-    "urgent": true
-  },
-  {
-    "id": "transfusion-reaction",
-    "patterns": [
-      "sốt run trong khi truyền máu",
-      "đau lưng dữ dội khi đang truyền máu"
-    ],
-    "warning": "Phản ứng truyền máu cấp",
-    "urgent": true
-  },
-  {
-    "id": "methemoglobinemia",
-    "patterns": [
-      "da xanh tím nhưng SpO2 máy báo bình thường",
-      "máu màu socola"
-    ],
-    "warning": "Methemoglobin huyết",
-    "urgent": true
+    "warning": "Dấu hiệu nguy hiểm ở trẻ — cần đưa trẻ đến cấp cứu nhi ngay.",
+    "urgent": true,
+    "recommend_er": true,
+    "speciality_hint": "nhi"
   }
 ]

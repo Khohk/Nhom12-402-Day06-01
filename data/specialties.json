@@ -1,898 +1,358 @@
 [
   {
-    "id": 96,
-    "name": "Bệnh lý tuyến Giáp",
+    "id": "trung-tam-benh-ly-tuyen-giap",
+    "name": "Bệnh lý Tuyến Giáp",
     "keywords": [
-      "mệt mỏi",
-      "sụt cân",
       "bướu cổ",
-      "hồi hộp",
-      "run tay",
-      "khó nuốt"
-    ]
+      "cổ sưng",
+      "nuốt khó",
+      "khàn giọng",
+      "hồi hộp do tuyến giáp",
+      "sụt cân không rõ nguyên nhân",
+      "tuyến giáp",
+      "cường giáp",
+      "suy giáp"
+    ],
+    "is_common": true
   },
   {
-    "id": 30,
-    "name": "Đa khoa",
-    "keywords": [
-      "khám sức khỏe",
-      "tư vấn bác sĩ"
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Da liễu",
-    "keywords": [
-      "ngứa",
-      "nổi mẩn",
-      "mụn trứng cá",
-      "chàm",
-      "nấm da",
-      "rụng tóc",
-      "vảy nến"
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Dinh dưỡng",
-    "keywords": [
-      "Tư vấn dinh dưỡng điều trị bệnh lý (tăng huyết áp",
-      "mỡ máu cao",
-      "gout",
-      "đái tháo đường",
-      "loãng xương",
-      "...)",
-      "tư vấn chế độ ăn phục hồi sau phẫu thuật các bệnh mạn tính",
-      "ung thư; tư vấnn dinh dưỡng cho mọi lứa tuổi",
-      "điều trị cho trẻ suy dinh dưỡng còi xương",
-      "thừa cân - béo phì",
-      "biéng ăn",
-      "nôn trớ",
-      "táo bón",
-      "giảm cân hợp lý cho người thừa cân",
-      "béo phì",
-      "suy dinh dưỡng",
-      "..."
-    ]
-  },
-  {
-    "id": 46,
-    "name": "Di truyền y học",
-    "keywords": [
-      "tư vấn di truyền",
-      "sàng lọc sơ sinh",
-      "dị tật bẩm sinh",
-      "xét nghiệm DNA"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Gây mê - điều trị đau",
-    "keywords": [
-      "giảm đau sau mổ",
-      "đau mãn tính",
-      "gây tê",
-      "chăm sóc giảm nhẹ"
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Hen - Dị ứng miễn dịch",
-    "keywords": [
-      "Chảy nước mũi",
-      "hắt hơi",
-      "ngứa",
-      "dị ứng nổi mề đay",
-      "viêm xoang",
-      "viêm mũi dị ứng",
-      "viêm lưỡi",
-      "zona thần kinh",
-      "..."
-    ]
-  },
-  {
-    "id": 131,
-    "name": "Hen - Dị ứng miễn dịch nhi",
-    "keywords": [
-      "hen nhi",
-      "dị ứng trẻ em",
-      "viêm da cơ địa"
-    ]
-  },
-  {
-    "id": 57,
-    "name": "Hô hấp",
-    "keywords": [
-      "ho kéo dài",
-      "khó thở",
-      "khò khè",
-      "đau tức ngực",
-      "ho có đờm",
-      "viêm phổi"
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Hỗ trợ sinh sản",
-    "keywords": [
-      "hiếm muộn",
-      "vô sinh",
-      "tư vấn mang thai",
-      "IVF",
-      "IUI"
-    ]
-  },
-  {
-    "id": 38,
-    "name": "Huyết học",
-    "keywords": [
-      "thiếu máu",
-      "chảy máu không cầm",
-      "da xanh xao",
-      "nổi hạch",
-      "sốt kéo dài"
-    ]
-  },
-  {
-    "id": 132,
-    "name": "Khám sàng lọc tiêu hóa",
-    "keywords": [
-      "khám dạ dày",
-      "tầm soát đại tràng",
-      "nội soi tiêu hóa"
-    ]
-  },
-  {
-    "id": 133,
-    "name": "Khám sàng lọc tim mạch",
-    "keywords": [
-      "khám tim",
-      "đau ngực",
-      "hồi hộp",
-      "cao huyết áp"
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Khám sức khỏe tổng quát người lớn",
-    "keywords": [
-      "khám tổng quát",
-      "kiểm tra sức khỏe",
-      "xét nghiệm tổng quát"
-    ]
-  },
-  {
-    "id": 137,
-    "name": "Khám sức khỏe tổng quát - Trẻ em",
-    "keywords": [
-      "khám tổng quát",
-      "kiểm tra sức khỏe",
-      "xét nghiệm tổng quát"
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Mắt",
-    "keywords": [
-      "nhìn mờ",
-      "nhức mắt",
-      "đỏ mắt",
-      "chảy nước mắt",
-      "cận thị",
-      "loạn thị"
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Nam khoa",
-    "keywords": [
-      "Xuất tinh sớm",
-      "rối loạn cương",
-      "yếu sinh lý",
-      "..."
-    ]
-  },
-  {
-    "id": 47,
-    "name": "Ngoại chấn thương chỉnh hình",
+    "id": "ngoai-chan-thuong-chinh-hinh",
+    "name": "Chấn thương chỉnh hình - Y học thể thao",
     "keywords": [
       "gãy xương",
-      "đau khớp",
+      "bong gân",
       "trật khớp",
-      "chấn thương thể thao"
-    ]
+      "chấn thương thể thao",
+      "đau khớp gối",
+      "đau vai",
+      "đau cổ tay",
+      "phẫu thuật xương khớp"
+    ],
+    "is_common": true
   },
   {
-    "id": 60,
-    "name": "Ngoại nhi",
-    "keywords": [
-      "phẫu thuật nhi",
-      "dị tật bẩm sinh ở trẻ",
-      "thoát vị bẹn nhi"
-    ]
-  },
-  {
-    "id": 62,
-    "name": "Ngoại Thần kinh",
-    "keywords": [
-      "Bệnh lý động kinh",
-      "co giật nửa mặt",
-      "đau mặt",
-      "u não",
-      "chấn thương sọ não",
-      "chấn thương cột sống",
-      "hẹp ống sống thắt lưng",
-      "vẹo cột sống",
-      "trượt đốt sống",
-      "các bệnh lý thoái hóa cột sống nói chung",
-      "..."
-    ]
-  },
-  {
-    "id": 22,
-    "name": "Ngoại Thận - Tiết niệu",
-    "keywords": [
-      "Tiểu khó",
-      "tiểu buốt",
-      "tiểu máu",
-      "..."
-    ]
-  },
-  {
-    "id": 63,
-    "name": "Ngoại Tiêu hoá",
-    "keywords": [
-      "sỏi mật",
-      "trĩ",
-      "thoát vị",
-      "phẫu thuật đại trực tràng"
-    ]
-  },
-  {
-    "id": 64,
-    "name": "Ngoại Tim mạch",
-    "keywords": [
-      "phẫu thuật tim",
-      "hẹp hở van tim",
-      "bệnh màng ngoài tim"
-    ]
-  },
-  {
-    "id": 28,
-    "name": "Nhi",
-    "keywords": [
-      "(Chỉ tư vấn cho khách hàng dưới 18 tuổi) Viêm họng",
-      "hắt hơi",
-      "sổ mũi",
-      "đi ngoài",
-      "táo bón nhẹ",
-      "tư vấn bổ sung dinh dưỡng",
-      "vitamin (D",
-      "D3K2",
-      "...)",
-      "bị phát ban",
-      "dị ứng nhẹ",
-      "nổi mẩn",
-      "bong tróc da",
-      "da khô",
-      "tư vấn về chậm tăng chiều cao",
-      "tiêm hormone phát triển",
-      "tư vấn phương pháp điều trị Covid và chăm sóc sau Covid",
-      "..."
-    ]
-  },
-  {
-    "id": 77,
-    "name": "Nhi Tim mạch",
-    "keywords": [
-      "tim bẩm sinh",
-      "trẻ tím tái",
-      "tim đập nhanh ở trẻ"
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Nội Cơ xương khớp",
-    "keywords": [
-      "đau khớp",
-      "sưng khớp",
-      "thoái hóa khớp",
-      "loãng xương",
-      "gout"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Nội thần kinh",
-    "keywords": [
-      "Rối loạn lo âu",
-      "rối loạn giấc ngủ",
-      "tai biến mạch máu não",
-      "đau nửa đầu",
-      "đau đầu mãn tính",
-      "..."
-    ]
-  },
-  {
-    "id": 82,
-    "name": "Nội Thận - Tiết niệu",
-    "keywords": [
-      "tiểu buốt",
-      "tiểu rắt",
-      "đau lưng vùng thận",
-      "phù mặt",
-      "sỏi thận"
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Nội tiết",
-    "keywords": [
-      "Tư vấn điều trị các bệnh lý nội tiết (cường giáp",
-      "suy giáp",
-      "nhân tuyến giáp",
-      "tuyến yên",
-      "tuyến thượng thận",
-      "đái tháo đường",
-      "rối loạn mỡ máu",
-      "...)"
-    ]
-  },
-  {
-    "id": 83,
-    "name": "Nội Tiêu hoá",
-    "keywords": [
-      "đau dày dày",
-      "trào ngược dạ dày",
-      "đầy hơi",
-      "táo bón",
-      "tiêu chảy",
-      "vàng da"
-    ]
-  },
-  {
-    "id": 84,
-    "name": "Nội Tim mạch",
-    "keywords": [
-      "Tư vấn điều trị nội khoa các bệnh lý tim mạch (tăng huyết áp",
-      "đái tháo đường",
-      "rối loạn lipid máu",
-      "bệnh động mạch vành",
-      "...)"
-    ]
-  },
-  {
-    "id": 129,
-    "name": "Phòng khám Tiền mãn kinh, mãn kinh",
-    "keywords": [
-      "khám sức khỏe",
-      "tư vấn bác sĩ"
-    ]
-  },
-  {
-    "id": 9,
-    "name": "Phục hồi chức năng",
-    "keywords": [
-      "tập vật lý trị liệu",
-      "yếu liệt chi",
-      "tai biến mạch máu não",
-      "giảm vận động"
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Răng - Hàm - Mặt",
-    "keywords": [
-      "đau răng",
-      "sâu răng",
-      "chảy máu nướu",
-      "niềng răng",
-      "nhổ răng khôn"
-    ]
-  },
-  {
-    "id": 142,
-    "name": "Răng - Hàm - Mặt View",
-    "keywords": [
-      "đau răng",
-      "sâu răng",
-      "chảy máu nướu",
-      "niềng răng",
-      "nhổ răng khôn"
-    ]
-  },
-  {
-    "id": 86,
-    "name": "Sản phụ khoa",
-    "keywords": [
-      "Các bệnh lây truyền qua đường tình dục (Ra khí hư",
-      "dịch âm đạo bất thường sau quan hệ tình dục",
-      "đau",
-      "ngứa",
-      "rát vùng sinh dục",
-      "...); Rối loạn kinh nguyệt tuổi vị thành niên (Tuổi từ 10- 18",
-      "Kình nguyệt không đều ( 1 tháng thấy 2 lần hoặc mất kinh vài tháng mới thấy lại)",
-      "rong kinh rong huyết",
-      "lượng kinh nhiều hoặc ít); Rối loạn kinh nguyệt tiền mãn kinh (Kinh nguyệt không đều ở lứa tuổi trên 40",
-      "lượng kinh nhiều hoặc ít",
-      "thay đổi màu sắc (sẫm màu)",
-      "viêm đường sinh dục - tiết niệu (Ra khí hư âm đạo bất thường (màu vàng",
-      "xanh",
-      "có bọt",
-      "bột đặc",
-      "hôi…)  kèm theo tiểu buốt tiểu dắt",
-      "...); Buồng trứng đa nang (Kinh thưa (vòng kinh trên 35 ngày)",
-      "khó có con",
-      "đã từng làm siêu âm thấy buồng trứng nhiều nang",
-      "...); Rối loạn chức năng tuổi tiền mãn kinh và mãn kinh (Tuổi từ 40",
-      "Kình nguyệt không đều",
-      "buồn bã",
-      "thay đổi cảm xúc vô cớ",
-      "bốc hỏa về đêm",
-      "lo lắng",
-      "tiểu không tự chủ",
-      "đau khi quan hệ TD... ); Bệnh lý tuyến vú (đau vú",
-      "tiết dịch núm vú hoặc sờ thấy u",
-      "tiền sử gia đình hoặc bản thân có bệnh vú",
-      "đã đi khám siêu âm hoặc chụp X quang có tổn thương",
-      "...); U xơ tử cung và u nang buồng trứng (ra kinh nhiều",
-      "tức nặng vùng bụng dưới",
-      "đã đi khám được làm siêu âm…); Nhiễm HPV sinh dục (xuất hiện nụ sùi ở vùng sinh dục hoặc ra máu âm đạo bất thường",
-      "tiền sử được chẩn đoán viêm do HPV",
-      "nghi ngờ viêm HPV khi làm xét nghiệm tế bào cổ tử cung); Sàng lọc ung thư cổ tử cung (tiến hành cho mọi lứa tuổi từ 21-60. Bao gồm làm tế bào cổ tử cung và xét nghiệm HPV); Sàng lọc ung thư vú (tư vấn các cách làm sàng lọc dựa vào phân loại nguy cơ theo quy chuẩn quốc tế",
-      "...); Tư vấn trước mang thai (BS chuyên khoa sẽ tư vấn các xét nghiệm cần làm dựa trên thăm hỏi tiền sử gia đình",
-      "cá nhân cả vợ và chồng . Tư vấn chế độ ăn",
-      "thuốc và sinh hoạt); Viêm đường sinh dục thời kỳ có thai (Có thai kèm theo ra khí hư âm đạo bất thường (vàng xanh",
-      "bột đặc",
-      "có bọt",
-      "ngứa rát",
-      "hôi",
-      "lẫn máu",
-      "…) hoặc có vết loét",
-      "nụ sùi",
-      "nổi hạch sưng đau…); Sàng lọc trước sinh; Tiểu đường và thai nghén (Phụ nữ có thai có nguy cơ cao ( tiền sử tiểu đường ở lần mang thai trước",
-      "thừa cân…) làm sàng lọc sớm ngay từ quý 1. Còn lại sàng lọc ở tuần thai 24-28); Nguy cơ trầm cảm sau sinh (Sàng lọc nguy cơ trầm cảm sau sinh ở tuần thai 28 để có phương án dự phòng ); Phục hồi rối loạn chức năng sản chậu sau sinh (Sau sinh có thể bị : sa sinh dục",
-      "són tiểu",
-      "tiểu nhiều",
-      "tiểu khó",
-      "són phân",
-      "đau vùng tầng sinh môn",
-      "đau khi giao hợp)"
-    ]
-  },
-  {
-    "id": 21,
-    "name": "Tai - Mũi - Họng",
-    "keywords": [
-      "ù tai",
-      "đau tai",
-      "nghẹt mũi",
-      "viêm họng",
-      "viêm xoang",
-      "khàn tiếng"
-    ]
-  },
-  {
-    "id": 130,
-    "name": "Tai mũi họng nhi",
-    "keywords": [
-      "viêm họng trẻ em",
-      "viêm tai giữa",
-      "amidan"
-    ]
-  },
-  {
-    "id": 40,
-    "name": "Tâm lý",
-    "keywords": [
-      "Lo âu",
-      "trầm cảm",
-      "mất ngủ",
-      "ám ảnh cưỡng chế (OCD)",
-      "sang chấn tâm lý",
-      "rối loạn nhân cách",
-      "căng thẳng với công việc",
-      "kiệt sức nghề nghiệp",
-      "mối quan hệ gia đình",
-      "mối quan hệ cặp đôi",
-      "xu hướng tính dục",
-      "các rối loạn về cảm xúc",
-      "tư duy và hành vi..."
-    ]
-  },
-  {
-    "id": 4,
-    "name": "Tâm thần",
-    "keywords": [
-      "mất ngủ",
-      "lo âu",
-      "trầm cảm",
-      "stress",
-      "ảo giác",
-      "hoang tưởng"
-    ]
-  },
-  {
-    "id": 13,
-    "name": "Thẩm mỹ",
-    "keywords": [
-      "phẫu thuật thẩm mỹ",
-      "nâng mũi",
-      "căng da mặt",
-      "hút mỡ"
-    ]
-  },
-  {
-    "id": 50,
-    "name": "Tiêm chủng vắc xin",
-    "keywords": [
-      "tiêm chủng",
-      "tiêm phòng",
-      "vacxin",
-      "miễn dịch"
-    ]
-  },
-  {
-    "id": 95,
-    "name": "Trung tâm bệnh lý Vú",
-    "keywords": [
-      "đau ngực",
-      "u ngực",
-      "tầm soát ung thư vú"
-    ]
-  },
-  {
-    "id": 139,
-    "name": "Trung tâm Ung bướu",
-    "keywords": [
-      "tầm soát ung thư",
-      "khối u",
-      "xạ trị",
-      "hóa trị",
-      "sụt cân không rõ nguyên nhân"
-    ]
-  },
-  {
-    "id": 19,
-    "name": "Truyền nhiễm",
-    "keywords": [
-      "sốt cao",
-      "phát ban",
-      "viêm gan",
-      "sốt xuất huyết",
-      "tay chân miệng"
-    ]
-  },
-  {
-    "id": 119,
-    "name": "Y học Giấc ngủ",
-    "keywords": [
-      "ngủ ngáy",
-      "ngừng thở khi ngủ",
-      "mất ngủ kéo dài"
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Y học tái tạo (Tự kỷ bại não, Tế bào gốc)",
-    "keywords": [
-      "tế bào gốc",
-      "điều trị tự kỷ",
-      "bại não"
-    ]
-  },
-  {
-    "id": 54,
+    "id": "noi-co-xuong-khop",
     "name": "Cơ xương khớp",
     "keywords": [
+      "đau lưng",
+      "đau cột sống",
       "đau khớp",
-      "sưng khớp",
+      "viêm khớp",
       "thoái hóa khớp",
-      "loãng xương",
-      "gout"
-    ]
+      "đau cổ",
+      "đau vai gáy",
+      "thoát vị đĩa đệm",
+      "đau xương",
+      "loãng xương"
+    ],
+    "is_common": true
   },
   {
-    "id": 111,
-    "name": "Đơn vị Sức khỏe tâm thần",
+    "id": "da-lieu",
+    "name": "Da liễu",
     "keywords": [
-      "lo âu",
-      "trầm cảm",
-      "mất ngủ",
-      "stress"
-    ]
+      "mụn",
+      "nổi mẩn",
+      "ngứa da",
+      "viêm da",
+      "chàm",
+      "vảy nến",
+      "rụng tóc",
+      "nấm da",
+      "bệnh da liễu",
+      "tổn thương da",
+      "nám",
+      "tàn nhang"
+    ],
+    "is_common": true
   },
   {
-    "id": 99,
-    "name": "Huyết học - Di truyền - Bệnh hiếm",
+    "id": "ho-hap",
+    "name": "Hô hấp",
     "keywords": [
-      "thiếu máu",
-      "chảy máu không cầm",
-      "da xanh xao",
-      "nổi hạch",
-      "sốt kéo dài"
-    ]
+      "ho",
+      "ho kéo dài",
+      "khó thở",
+      "thở khò khè",
+      "viêm phổi",
+      "hen phế quản",
+      "viêm phế quản",
+      "đờm",
+      "tức ngực"
+    ],
+    "is_common": true
   },
   {
-    "id": 100,
-    "name": "Miễn dịch dị ứng",
+    "id": "hen-di-ung-mien-dich",
+    "name": "Miễn dịch - Dị ứng",
     "keywords": [
       "dị ứng",
-      "mề đay",
+      "nổi mề đay",
+      "ngứa",
+      "phát ban",
+      "hắt hơi liên tục",
+      "chảy nước mũi",
+      "viêm mũi dị ứng",
       "hen suyễn",
-      "viêm mũi dị ứng"
-    ]
+      "khó thở do dị ứng"
+    ],
+    "is_common": true
   },
   {
-    "id": 110,
-    "name": "Nhi Thận - Nội tiết",
+    "id": "rang-ham-mat",
+    "name": "Nha khoa",
     "keywords": [
-      "trẻ chậm lớn",
-      "dậy thì sớm",
-      "tiểu đường trẻ em",
-      "đái dầm"
-    ]
+      "đau răng",
+      "sâu răng",
+      "chảy máu nướu",
+      "hôi miệng",
+      "nhổ răng",
+      "răng khôn",
+      "viêm nướu",
+      "đau hàm"
+    ],
+    "is_common": true
   },
   {
-    "id": 138,
-    "name": "Tâm lý trẻ em",
+    "id": "noi-tim-mach",
+    "name": "Nội Tim mạch",
     "keywords": [
-      "tự kỷ",
-      "tăng động",
-      "chậm nói",
-      "rối loạn cảm xúc nhi"
-    ]
-  },
-  {
-    "id": 113,
-    "name": "Trung tâm bệnh lý Tuyến Giáp",
-    "keywords": [
-      "mệt mỏi",
-      "sụt cân",
-      "bướu cổ",
+      "đau ngực",
       "hồi hộp",
-      "run tay",
-      "khó nuốt"
-    ]
+      "tim đập nhanh",
+      "tim đập chậm",
+      "khó thở khi gắng sức",
+      "tăng huyết áp",
+      "huyết áp cao",
+      "phù chân",
+      "mệt mỏi khi leo cầu thang",
+      "đau thắt ngực"
+    ],
+    "is_common": true
   },
   {
-    "id": 114,
-    "name": "Trung tâm bệnh lý Tuyến Vú",
+    "id": "noi-tiet",
+    "name": "Nội tiết",
     "keywords": [
-      "u vú",
-      "đau vú",
-      "tầm soát ung thư vú",
-      "tiết dịch núm vú"
-    ]
+      "tiểu đường",
+      "đái tháo đường",
+      "mỡ máu",
+      "béo phì",
+      "rối loạn nội tiết",
+      "suy giáp",
+      "cường giáp",
+      "hormone",
+      "cholesterol cao"
+    ],
+    "is_common": true
   },
   {
-    "id": 103,
-    "name": "Trung tâm hỗ trợ Sinh sản - Olea",
+    "id": "kham-suc-khoe-tong-quat-nguoi-lon",
+    "name": "Sức khoẻ tổng quát",
     "keywords": [
-      "khám sức khỏe",
-      "tư vấn bác sĩ"
-    ]
+      "khám tổng quát",
+      "kiểm tra sức khỏe định kỳ",
+      "xét nghiệm máu tổng quát",
+      "không biết khám gì",
+      "khám sức khỏe"
+    ],
+    "is_common": true
   },
   {
-    "id": 23,
-    "name": "Ung bướu-Xạ trị",
+    "id": "tai-mui-hong",
+    "name": "Tai - Mũi - Họng",
     "keywords": [
-      "tầm soát ung thư",
-      "khối u",
-      "xạ trị",
-      "hóa trị",
-      "sụt cân không rõ nguyên nhân"
-    ]
+      "đau họng",
+      "viêm họng",
+      "viêm amidan",
+      "ù tai",
+      "nghe kém",
+      "chảy máu cam",
+      "nghẹt mũi",
+      "viêm xoang",
+      "khàn tiếng",
+      "đau tai",
+      "polyp mũi"
+    ],
+    "is_common": true
   },
   {
-    "id": 34,
-    "name": "Xét nghiệm",
-    "keywords": [
-      "xét nghiệm máu",
-      "xét nghiệm nước tiểu",
-      "xét nghiệm sinh hóa"
-    ]
-  },
-  {
-    "id": 109,
-    "name": "Tiêm chủng vắc xin - Người lớn",
-    "keywords": [
-      "tiêm chủng",
-      "tiêm phòng",
-      "vacxin",
-      "miễn dịch"
-    ]
-  },
-  {
-    "id": 108,
-    "name": "Tiêm chủng vắc xin - Nhi",
-    "keywords": [
-      "tiêm chủng",
-      "tiêm phòng",
-      "vacxin",
-      "miễn dịch"
-    ]
-  },
-  {
-    "id": 8,
-    "name": "Y học cổ truyền",
-    "keywords": [
-      "châm cứu",
-      "bấm huyệt",
-      "đông y",
-      "thuốc bắc"
-    ]
-  },
-  {
-    "id": 15,
-    "name": "Tiêu hóa",
-    "keywords": [
-      "đau bụng",
-      "đầy bụng",
-      "ăn không tiêu",
-      "đại tiện bất thường"
-    ]
-  },
-  {
-    "id": 17,
-    "name": "Nội Hô hấp",
-    "keywords": [
-      "Tư vấn điều trị bệnh lý hô hấp do nhiễm trùng (viêm phổi",
-      "áp xe phổi",
-      "nấm phổi",
-      "bệnh phổi tắc nghẽn",
-      "mãn tính",
-      "giãn phế quản",
-      "...); hộ hấp liên quan đến dị ứng miễn dịch (hen phế quản",
-      "...) ; hội chứng ngừng thở khi ngủ; tư vấn thăm dò ung thư phổi"
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Nội tổng quát",
-    "keywords": [
-      "Hỗ trợ đọc các kết quả xét nghiệm có sẵn",
-      "bệnh chưa rõ chuyên môn cần làm xét nghiệm tổng quát",
-      "..."
-    ]
-  },
-  {
-    "id": 42,
-    "name": "Ngoại tổng hợp",
-    "keywords": [
-      "phẫu thuật bụng",
-      "thoát vị",
-      "cắt túi mật"
-    ]
-  },
-  {
-    "id": 31,
-    "name": "Chẩn đoán hình ảnh",
-    "keywords": [
-      "siêu âm",
-      "X-quang",
-      "chụp CT",
-      "chụp MRI"
-    ]
-  },
-  {
-    "id": 117,
-    "name": "Chấn thương chỉnh hình và phẫu thuật cột sống",
-    "keywords": [
-      "đau lưng",
-      "thoát vị đĩa đệm",
-      "vẹo cột sống",
-      "gãy xương"
-    ]
-  },
-  {
-    "id": 140,
-    "name": "Huyết Học và Trị liệu tế bào",
-    "keywords": [
-      "ghép tế bào gốc",
-      "điều trị máu"
-    ]
-  },
-  {
-    "id": 145,
-    "name": "Trung Tâm cột sống",
-    "keywords": [
-      "đau cột sống",
-      "vẹo cột sống",
-      "thoát vị đĩa đệm"
-    ]
-  },
-  {
-    "id": 116,
-    "name": "Khám bệnh và Nội khoa",
-    "keywords": [
-      "khám nội",
-      "sốt",
-      "mệt mỏi"
-    ]
-  },
-  {
-    "id": 134,
-    "name": "Phòng khám chăm sóc sức khỏe tinh thần và quản lý đau đầu",
-    "keywords": [
-      "đau đầu",
-      "căng thẳng",
-      "stress",
-      "mất ngủ"
-    ]
-  },
-  {
-    "id": 124,
-    "name": "Phòng khám chẩn đoán chuyên sâu Huyết học, ung thư máu",
-    "keywords": [
-      "thiếu máu",
-      "chảy máu không cầm",
-      "da xanh xao",
-      "nổi hạch",
-      "sốt kéo dài"
-    ]
-  },
-  {
-    "id": 126,
-    "name": "Phòng khám chẩn đoán chuyên sâu Thần kinh",
+    "id": "noi-than-kinh",
+    "name": "Thần kinh",
     "keywords": [
       "đau đầu",
       "chóng mặt",
+      "tê tay",
+      "tê chân",
+      "tê mặt",
+      "mất ngủ",
+      "run tay",
+      "yếu tay chân",
+      "liệt",
+      "đau nửa đầu",
+      "migraine",
+      "đột quỵ",
+      "tai biến",
       "động kinh",
-      "parkinson",
-      "run tay chân"
-    ]
+      "co giật",
+      "tê bì"
+    ],
+    "is_common": true
   },
   {
-    "id": 128,
-    "name": "Phòng khám chẩn đoán chuyên sâu Tim mạch",
+    "id": "ngoai-than-tiet-nieu",
+    "name": "Thận - Tiết niệu",
     "keywords": [
-      "đau ngực",
-      "tim đập nhanh",
-      "cao huyết áp",
-      "khó thở"
-    ]
+      "tiểu buốt",
+      "tiểu rắt",
+      "tiểu máu",
+      "đau lưng dưới",
+      "sỏi thận",
+      "nhiễm trùng đường tiểu",
+      "tiểu đêm nhiều",
+      "phù",
+      "suy thận"
+    ],
+    "is_common": true
   },
   {
-    "id": 122,
-    "name": "Phòng khám sàng lọc sớm Ung thư gan",
+    "id": "noi-tieu-hoa",
+    "name": "Tiêu hoá - Gan mật",
     "keywords": [
-      "tầm soát ung thư gan",
-      "viêm gan B",
-      "viêm gan C"
-    ]
+      "đau bụng",
+      "đau dạ dày",
+      "buồn nôn",
+      "nôn",
+      "tiêu chảy",
+      "táo bón",
+      "ợ chua",
+      "trào ngược",
+      "đầy bụng",
+      "chướng bụng",
+      "phân có máu",
+      "vàng da",
+      "đau hạ sườn phải",
+      "gan",
+      "mật"
+    ],
+    "is_common": true
   },
   {
-    "id": 123,
-    "name": "Phòng khám sàng lọc sớm  Ung thư phổi",
+    "id": "mat",
+    "name": "Trung tâm Mắt",
     "keywords": [
-      "tầm soát ung thư phổi",
-      "ho kéo dài",
-      "hút thuốc lá"
-    ]
+      "mờ mắt",
+      "đau mắt",
+      "đỏ mắt",
+      "chảy nước mắt",
+      "nhìn đôi",
+      "nhức mắt",
+      "thị lực giảm",
+      "cận thị",
+      "loạn thị",
+      "đục thủy tinh thể"
+    ],
+    "is_common": true
   },
   {
-    "id": 125,
-    "name": "Phòng khám sàng lọc sớm Ung thư phụ khoa",
+    "id": "nhi",
+    "name": "Trung tâm Nhi",
     "keywords": [
-      "tầm soát ung thư cổ tử cung",
-      "ung thư buồng trứng"
-    ]
+      "trẻ em",
+      "trẻ nhỏ",
+      "sốt trẻ em",
+      "ho trẻ em",
+      "tiêu chảy trẻ em",
+      "chậm lớn",
+      "suy dinh dưỡng trẻ",
+      "dưới 18 tuổi"
+    ],
+    "is_common": true
   },
   {
-    "id": 121,
-    "name": "Phòng khám sàng lọc sớm  Ung thư tiêu hóa",
+    "id": "san-phu-khoa",
+    "name": "Trung tâm Sức khoẻ phụ nữ",
     "keywords": [
-      "tầm soát ung thư đại trực tràng",
-      "nội soi đại tràng"
-    ]
+      "rối loạn kinh nguyệt",
+      "đau bụng kinh",
+      "khí hư",
+      "u xơ tử cung",
+      "buồng trứng",
+      "có thai",
+      "mang thai",
+      "tiền mãn kinh",
+      "mãn kinh",
+      "HPV",
+      "ung thư cổ tử cung",
+      "đau vùng kín"
+    ],
+    "is_common": true
   },
   {
-    "id": 127,
-    "name": "Phòng khám sàng lọc sớm Ung thư vú - giáp",
+    "id": "trung-tam-ung-buou",
+    "name": "Trung tâm Ung bướu",
     "keywords": [
-      "tầm soát ung thư vú",
-      "tầm soát ung thư tuyến giáp"
-    ]
+      "u",
+      "khối u",
+      "ung thư",
+      "sụt cân không rõ nguyên nhân",
+      "hạch nổi",
+      "xuất huyết bất thường"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "trung-tam-benh-ly-tuyen-vu",
+    "name": "Trung tâm Vú",
+    "keywords": [
+      "đau vú",
+      "u vú",
+      "tiết dịch núm vú",
+      "cục ở ngực",
+      "ung thư vú",
+      "khám vú"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "tiem-chung-vac-xin",
+    "name": "Trung tâm Vắc xin",
+    "keywords": [
+      "tiêm phòng",
+      "vắc xin",
+      "tiêm chủng",
+      "vaccine"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "tam-ly",
+    "name": "Trung tâm chăm sóc sức khỏe tinh thần",
+    "keywords": [
+      "lo âu",
+      "trầm cảm",
+      "stress",
+      "căng thẳng",
+      "mất ngủ mãn tính",
+      "ám ảnh",
+      "hoảng loạn",
+      "rối loạn lo âu",
+      "tâm lý",
+      "OCD",
+      "sang chấn tâm lý"
+    ],
+    "is_common": true
+  },
+  {
+    "id": "y-hoc-co-truyen",
+    "name": "Y học cổ truyền",
+    "keywords": [
+      "châm cứu",
+      "vật lý trị liệu",
+      "y học cổ truyền",
+      "đau mãn tính",
+      "phục hồi chức năng"
+    ],
+    "is_common": true
   }
 ]
