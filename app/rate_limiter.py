@@ -6,7 +6,13 @@ from fastapi import Depends, HTTPException
 from .auth import verify_api_key
 from .config import settings
 
-r = redis.from_url(settings.REDIS_URL, decode_responses=True)
+_r = None
+
+def _redis():
+    global _r
+    if _r is None:
+        _r = redis.from_url(settings.REDIS_URL, decode_responses=True)
+    return _r
 
 
 def check_rate_limit(user_id: str = Depends(verify_api_key)) -> None:
@@ -14,7 +20,7 @@ def check_rate_limit(user_id: str = Depends(verify_api_key)) -> None:
     now = time.time()
     window = 60  # 1 minute sliding window
 
-    pipe = r.pipeline()
+    pipe = _redis().pipeline()
     pipe.zremrangebyscore(key, 0, now - window)
     pipe.zadd(key, {str(now): now})
     pipe.zcard(key)
