@@ -11,7 +11,7 @@ _r = None
 def _redis():
     global _r
     if _r is None:
-        _r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs=None)
+        _r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs="none")
     return _r
 
 

@@ -36,7 +36,7 @@ logging.root.setLevel(getattr(logging, settings.LOG_LEVEL, logging.INFO))
 logger = logging.getLogger(__name__)
 
 # --- Redis ---
-r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs=None)
+r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs="none")
 
 # --- Graceful shutdown flag ---
 _shutting_down = False
