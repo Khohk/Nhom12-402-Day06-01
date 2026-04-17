@@ -21,12 +21,11 @@ def check_rate_limit(user_id: str = Depends(verify_api_key)) -> None:
     now = time.time()
     window = 60  # 1 minute sliding window
 
-    pipe = _redis().pipeline()
-    pipe.zremrangebyscore(key, 0, now - window)
-    pipe.zadd(key, {str(now): now})
-    pipe.zcard(key)
-    pipe.expire(key, window)
-    _, _, count, _ = pipe.execute()
+    r = _redis()
+    r.zremrangebyscore(key, 0, now - window)
+    r.zadd(key, {str(now): now})
+    count = r.zcard(key)
+    r.expire(key, window)
 
-    if count > settings.RATE_LIMIT_PER_MINUTE:
+    if int(count) > settings.RATE_LIMIT_PER_MINUTE:
         raise HTTPException(status_code=429, detail="Rate limit exceeded. Try again later.")
