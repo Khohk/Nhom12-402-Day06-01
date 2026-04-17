@@ -6,7 +6,7 @@ import time
 from contextlib import asynccontextmanager
 from typing import Optional
 
-import redis
+from upstash_redis import Redis
 from fastapi import Depends, FastAPI, HTTPException, Request
 from langchain_core.messages import AIMessage, HumanMessage
 from pydantic import BaseModel
@@ -36,7 +36,7 @@ logging.root.setLevel(getattr(logging, settings.LOG_LEVEL, logging.INFO))
 logger = logging.getLogger(__name__)
 
 # --- Redis ---
-r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs="none")
+r = Redis(url=settings.UPSTASH_REDIS_REST_URL, token=settings.UPSTASH_REDIS_REST_TOKEN)
 
 # --- Graceful shutdown flag ---
 _shutting_down = False

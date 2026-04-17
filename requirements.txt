@@ -10,4 +10,4 @@ uvicorn
 pydantic
 pydantic-settings
 typing_extensions
-redis
+upstash-redis

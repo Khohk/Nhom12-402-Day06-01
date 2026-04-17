@@ -1,17 +1,18 @@
 import time
 
-import redis
 from fastapi import Depends, HTTPException
+from upstash_redis import Redis
 
 from .auth import verify_api_key
 from .config import settings
 
 _r = None
 
-def _redis():
+
+def _redis() -> Redis:
     global _r
     if _r is None:
-        _r = redis.from_url(settings.REDIS_URL, decode_responses=True, ssl_cert_reqs="none")
+        _r = Redis(url=settings.UPSTASH_REDIS_REST_URL, token=settings.UPSTASH_REDIS_REST_TOKEN)
     return _r
 
 
